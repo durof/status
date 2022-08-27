@@ -16,6 +16,15 @@ sites:
   - name: Mention Bot
     url: https://backend.isbotdown.com/bots/mentionbot
     __dangerous__body_down: "\"isDown\":true"
+  - name: Mention Robot
+    url: https://backend.isbotdown.com/bots/mentionrobot
+    __dangerous__body_down: "\"isDown\":true"
+  - name: Mention Mirror Bot
+    url: https://backend.isbotdown.com/bots/mentionmirrorbot
+    __dangerous__body_down: "\"isDown\":true"
+  - name: Mention Test Bot
+    url: https://backend.isbotdown.com/bots/mentiontestbot
+    __dangerous__body_down: "\"isDown\":true"
   - name: Instant Read Bot
     url: https://backend.isbotdown.com/bots/rreadbot
     __dangerous__body_down: "\"isDown\":true"
