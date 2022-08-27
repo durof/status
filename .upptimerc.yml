@@ -10,6 +10,17 @@ sites:
     url: https://devs.today
   - name: Instant View Generation (@rreadbot)
     url: https://a.devs.today/example.org
+  - name: Instant View Generation (@rreadbot)
+    url: https://a.devs.today/example.org
+  - name: Inline Search Bot
+    url: https://backend.isbotdown.com/bots/isbot
+    __dangerous__body_down: "\"isDown\":true"
+  - name: Mention Bot
+    url: https://backend.isbotdown.com/bots/mentionbot
+    __dangerous__body_down: "\"isDown\":true"
+  - name: Instant Read Bot
+    url: https://backend.isbotdown.com/bots/rreadbot
+    __dangerous__body_down: "\"isDown\":true"
 
 
 status-website:
