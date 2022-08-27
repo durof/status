@@ -8,8 +8,8 @@ assignees:
 sites:
   - name: devs.today
     url: https://devs.today
-  - name: Instant View Generation
-    url: https://a.devs.today
+  - name: Instant View Generation (@rreadbot)
+    url: https://a.devs.today/example.org
 
 
 status-website:
