@@ -21,6 +21,9 @@ sites:
   - name: Instant Read Bot
     url: https://backend.isbotdown.com/bots/rreadbot
     __dangerous__body_down: "\"isDown\":true"
+  - name: Gen Face Bot
+    url: https://backend.isbotdown.com/bots/genfacebot
+    __dangerous__body_down: "\"isDown\":true"
 
 
 status-website:
