@@ -31,8 +31,9 @@ sites:
   - name: Gen Face Bot
     url: https://backend.isbotdown.com/bots/genfacebot
     __dangerous__body_down: "\"isDown\":true"
-
-
+  - name: TEST A
+    url: $TEST_A
+    
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
