@@ -1,7 +1,7 @@
 url: $TEST_A
 status: down
 code: 502
-responseTime: 11680
-lastUpdated: 2023-02-20T23:11:15.569Z
+responseTime: 10164
+lastUpdated: 2023-02-21T23:11:33.647Z
 startTime: Tue Sep 20 2022 03:24:50 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
