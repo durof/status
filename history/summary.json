@@ -39,15 +39,15 @@
     "url": "https://a.devs.today/example.org",
     "icon": "https://icons.duckduckgo.com/ip3/a.devs.today.ico",
     "slug": "instant-view-generation-rreadbot",
-    "status": "up",
-    "uptime": "98.95%",
-    "uptimeDay": "96.25%",
+    "status": "down",
+    "uptime": "98.96%",
+    "uptimeDay": "96.23%",
     "uptimeWeek": "82.34%",
     "uptimeMonth": "91.11%",
-    "uptimeYear": "98.95%",
+    "uptimeYear": "98.96%",
     "time": 9981,
     "timeDay": 14724,
-    "timeWeek": 14900,
+    "timeWeek": 15103,
     "timeMonth": 13287,
     "timeYear": 9981,
     "dailyMinutesDown": {
@@ -78,7 +78,7 @@
       "2023-04-20": 24,
       "2023-04-18": 88,
       "2023-04-17": 26,
-      "2023-04-16": 82
+      "2023-04-16": 48
     }
   },
   {
@@ -124,8 +124,8 @@
     "slug": "mention-bot",
     "status": "up",
     "uptime": "97.62%",
-    "uptimeDay": "68.85%",
-    "uptimeWeek": "65.05%",
+    "uptimeDay": "72.09%",
+    "uptimeWeek": "65.36%",
     "uptimeMonth": "79.49%",
     "uptimeYear": "97.62%",
     "time": 115,
@@ -167,7 +167,7 @@
     "status": "up",
     "uptime": "97.68%",
     "uptimeDay": "95.16%",
-    "uptimeWeek": "74.99%",
+    "uptimeWeek": "75.45%",
     "uptimeMonth": "79.97%",
     "uptimeYear": "97.68%",
     "time": 118,
@@ -395,7 +395,7 @@
     "timeMonth": 111,
     "timeYear": 115,
     "dailyMinutesDown": {
-      "2023-05-16": 1333,
+      "2023-05-16": 1379,
       "2023-05-15": 1440,
       "2023-05-14": 1440,
       "2023-05-13": 1440,
@@ -677,7 +677,7 @@
     "timeMonth": 9345,
     "timeYear": 11213,
     "dailyMinutesDown": {
-      "2023-05-16": 1333,
+      "2023-05-16": 1379,
       "2023-05-15": 1440,
       "2023-05-14": 1440,
       "2023-05-13": 1440,
