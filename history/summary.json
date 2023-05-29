@@ -165,19 +165,19 @@
     "url": "https://backend.isbotdown.com/bots/mentionrobot",
     "icon": "https://icons.duckduckgo.com/ip3/backend.isbotdown.com.ico",
     "slug": "mention-robot",
-    "status": "up",
-    "uptime": "97.60%",
-    "uptimeDay": "61.09%",
+    "status": "down",
+    "uptime": "97.62%",
+    "uptimeDay": "62.47%",
     "uptimeWeek": "68.69%",
-    "uptimeMonth": "78.33%",
-    "uptimeYear": "97.60%",
+    "uptimeMonth": "78.48%",
+    "uptimeYear": "97.62%",
     "time": 118,
     "timeDay": 117,
     "timeWeek": 121,
     "timeMonth": 117,
     "timeYear": 118,
     "dailyMinutesDown": {
-      "2023-05-29": 354,
+      "2023-05-29": 355,
       "2023-05-28": 419,
       "2023-05-27": 462,
       "2023-05-26": 676,
@@ -202,7 +202,7 @@
       "2023-05-07": 335,
       "2023-05-06": 325,
       "2023-05-05": 234,
-      "2023-05-04": 258
+      "2023-05-04": 193
     }
   },
   {
@@ -300,19 +300,19 @@
     "url": "https://backend.isbotdown.com/bots/mentiontestbot",
     "icon": "https://icons.duckduckgo.com/ip3/backend.isbotdown.com.ico",
     "slug": "mention-test-bot",
-    "status": "up",
-    "uptime": "97.53%",
-    "uptimeDay": "67.99%",
-    "uptimeWeek": "74.97%",
+    "status": "down",
+    "uptime": "97.55%",
+    "uptimeDay": "69.36%",
+    "uptimeWeek": "74.96%",
     "uptimeMonth": "78.48%",
-    "uptimeYear": "97.53%",
+    "uptimeYear": "97.55%",
     "time": 117,
     "timeDay": 113,
     "timeWeek": 119,
     "timeMonth": 115,
     "timeYear": 117,
     "dailyMinutesDown": {
-      "2023-05-29": 254,
+      "2023-05-29": 255,
       "2023-05-28": 527,
       "2023-05-27": 75,
       "2023-05-26": 202,
@@ -342,8 +342,7 @@
       "2023-05-02": 110,
       "2023-05-01": 248,
       "2023-04-30": 582,
-      "2023-04-29": 324,
-      "2023-04-28": 80
+      "2023-04-29": 324
     }
   },
   {
@@ -395,7 +394,7 @@
     "timeMonth": 118,
     "timeYear": 116,
     "dailyMinutesDown": {
-      "2023-05-29": 985,
+      "2023-05-29": 1008,
       "2023-05-28": 1440,
       "2023-05-27": 1440,
       "2023-05-26": 1440,
@@ -690,7 +689,7 @@
     "timeMonth": 7599,
     "timeYear": 10915,
     "dailyMinutesDown": {
-      "2023-05-29": 985,
+      "2023-05-29": 1008,
       "2023-05-28": 1440,
       "2023-05-27": 1440,
       "2023-05-26": 1440,
