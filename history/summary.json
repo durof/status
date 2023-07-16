@@ -140,18 +140,19 @@
     "url": "https://backend.isbotdown.com/bots/mentionbot",
     "icon": "https://icons.duckduckgo.com/ip3/backend.isbotdown.com.ico",
     "slug": "mention-bot",
-    "status": "up",
-    "uptime": "97.42%",
-    "uptimeDay": "65.05%",
+    "status": "down",
+    "uptime": "97.43%",
+    "uptimeDay": "65.03%",
     "uptimeWeek": "71.83%",
-    "uptimeMonth": "72.61%",
-    "uptimeYear": "97.42%",
+    "uptimeMonth": "72.74%",
+    "uptimeYear": "97.43%",
     "time": 120,
-    "timeDay": 106,
+    "timeDay": 104,
     "timeWeek": 110,
     "timeMonth": 179,
     "timeYear": 120,
     "dailyMinutesDown": {
+      "2023-07-16": 0,
       "2023-07-15": 503,
       "2023-07-14": 74,
       "2023-07-13": 322,
@@ -179,7 +180,7 @@
       "2023-06-21": 418,
       "2023-06-20": 349,
       "2023-06-19": 329,
-      "2023-06-18": 191
+      "2023-06-18": 133
     }
   },
   {
@@ -445,7 +446,7 @@
     "timeMonth": 119,
     "timeYear": 116,
     "dailyMinutesDown": {
-      "2023-07-16": 43,
+      "2023-07-16": 77,
       "2023-07-15": 1440,
       "2023-07-14": 1440,
       "2023-07-13": 1440,
@@ -788,7 +789,7 @@
     "timeMonth": 5090,
     "timeYear": 10049,
     "dailyMinutesDown": {
-      "2023-07-16": 43,
+      "2023-07-16": 77,
       "2023-07-15": 1440,
       "2023-07-14": 1440,
       "2023-07-13": 1440,
