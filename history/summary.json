@@ -42,18 +42,19 @@
     "url": "https://a.devs.today/example.org",
     "icon": "https://icons.duckduckgo.com/ip3/a.devs.today.ico",
     "slug": "instant-view-generation-rreadbot",
-    "status": "up",
-    "uptime": "99.11%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "99.13%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "99.85%",
     "uptimeMonth": "99.58%",
-    "uptimeYear": "99.11%",
+    "uptimeYear": "99.13%",
     "time": 9215,
     "timeDay": 3226,
     "timeWeek": 5565,
     "timeMonth": 3409,
     "timeYear": 9215,
     "dailyMinutesDown": {
+      "2023-07-29": 0,
       "2023-07-27": 15,
       "2023-07-16": 167,
       "2023-06-20": 16,
@@ -86,8 +87,7 @@
       "2023-04-30": 19,
       "2023-04-29": 29,
       "2023-04-28": 122,
-      "2023-04-27": 242,
-      "2023-04-26": 2
+      "2023-04-27": 165
     }
   },
   {
@@ -147,7 +147,7 @@
     "slug": "mention-bot",
     "status": "up",
     "uptime": "97.73%",
-    "uptimeDay": "67.88%",
+    "uptimeDay": "70.57%",
     "uptimeWeek": "73.44%",
     "uptimeMonth": "74.91%",
     "uptimeYear": "97.73%",
@@ -455,7 +455,7 @@
     "timeMonth": 118,
     "timeYear": 115,
     "dailyMinutesDown": {
-      "2023-07-29": 826,
+      "2023-07-29": 865,
       "2023-07-28": 1440,
       "2023-07-27": 1440,
       "2023-07-26": 1440,
@@ -811,7 +811,7 @@
     "timeMonth": 3154,
     "timeYear": 9742,
     "dailyMinutesDown": {
-      "2023-07-29": 826,
+      "2023-07-29": 865,
       "2023-07-28": 1440,
       "2023-07-27": 1440,
       "2023-07-26": 1440,
