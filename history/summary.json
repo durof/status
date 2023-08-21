@@ -154,8 +154,8 @@
     "status": "down",
     "uptime": "98.01%",
     "uptimeDay": "72.96%",
-    "uptimeWeek": "73.36%",
-    "uptimeMonth": "76.59%",
+    "uptimeWeek": "72.96%",
+    "uptimeMonth": "76.50%",
     "uptimeYear": "98.01%",
     "time": 120,
     "timeDay": 109,
@@ -163,7 +163,7 @@
     "timeMonth": 112,
     "timeYear": 120,
     "dailyMinutesDown": {
-      "2023-08-21": 0,
+      "2023-08-21": 41,
       "2023-08-20": 512,
       "2023-08-19": 364,
       "2023-08-18": 360,
@@ -199,18 +199,19 @@
     "url": "https://backend.isbotdown.com/bots/mentionrobot",
     "icon": "https://icons.duckduckgo.com/ip3/backend.isbotdown.com.ico",
     "slug": "mention-robot",
-    "status": "up",
-    "uptime": "98.31%",
-    "uptimeDay": "83.22%",
-    "uptimeWeek": "83.57%",
+    "status": "down",
+    "uptime": "98.32%",
+    "uptimeDay": "83.55%",
+    "uptimeWeek": "83.56%",
     "uptimeMonth": "82.69%",
-    "uptimeYear": "98.31%",
+    "uptimeYear": "98.32%",
     "time": 117,
-    "timeDay": 124,
+    "timeDay": 130,
     "timeWeek": 118,
     "timeMonth": 115,
     "timeYear": 117,
     "dailyMinutesDown": {
+      "2023-08-21": 1,
       "2023-08-20": 241,
       "2023-08-19": 271,
       "2023-08-18": 513,
@@ -244,7 +245,7 @@
       "2023-07-21": 431,
       "2023-07-20": 340,
       "2023-07-19": 561,
-      "2023-07-18": 262
+      "2023-07-18": 205
     }
   },
   {
@@ -363,19 +364,19 @@
     "url": "https://backend.isbotdown.com/bots/mentiontestbot",
     "icon": "https://icons.duckduckgo.com/ip3/backend.isbotdown.com.ico",
     "slug": "mention-test-bot",
-    "status": "up",
-    "uptime": "98.15%",
-    "uptimeDay": "92.88%",
-    "uptimeWeek": "81.36%",
+    "status": "down",
+    "uptime": "98.17%",
+    "uptimeDay": "92.82%",
+    "uptimeWeek": "81.76%",
     "uptimeMonth": "80.50%",
-    "uptimeYear": "98.15%",
+    "uptimeYear": "98.17%",
     "time": 117,
-    "timeDay": 130,
+    "timeDay": 127,
     "timeWeek": 127,
     "timeMonth": 116,
     "timeYear": 117,
     "dailyMinutesDown": {
-      "2023-08-21": 27,
+      "2023-08-21": 28,
       "2023-08-20": 76,
       "2023-08-19": 134,
       "2023-08-18": 551,
@@ -411,7 +412,7 @@
       "2023-07-19": 228,
       "2023-07-18": 201,
       "2023-07-17": 222,
-      "2023-07-16": 220
+      "2023-07-16": 141
     }
   },
   {
@@ -476,7 +477,7 @@
     "timeMonth": 116,
     "timeYear": 115,
     "dailyMinutesDown": {
-      "2023-08-21": 124,
+      "2023-08-21": 164,
       "2023-08-20": 1440,
       "2023-08-19": 1440,
       "2023-08-18": 1440,
@@ -855,7 +856,7 @@
     "timeMonth": 2551,
     "timeYear": 9260,
     "dailyMinutesDown": {
-      "2023-08-21": 124,
+      "2023-08-21": 164,
       "2023-08-20": 1440,
       "2023-08-19": 1440,
       "2023-08-18": 1440,
