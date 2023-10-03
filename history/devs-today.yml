@@ -1,7 +1,7 @@
 url: https://devs.today
-status: up
-code: 200
-responseTime: 464
-lastUpdated: 2023-10-03T00:37:37.781Z
+status: down
+code: 502
+responseTime: 408
+lastUpdated: 2023-10-03T19:57:55.432Z
 startTime: 2022-08-27T11:53:44.000Z
 generator: Upptime <https://github.com/upptime/upptime>
