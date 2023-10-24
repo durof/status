@@ -59,7 +59,7 @@
     "timeDay": 2230,
     "timeWeek": 2306,
     "timeMonth": 3776,
-    "timeYear": 8967,
+    "timeYear": 8975,
     "dailyMinutesDown": {
       "2023-10-14": 373,
       "2023-10-13": 154,
@@ -209,18 +209,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/backend.isbotdown.com.ico",
     "slug": "mention-robot",
     "status": "down",
-    "uptime": "98.14%",
-    "uptimeDay": "71.52%",
-    "uptimeWeek": "76.38%",
-    "uptimeMonth": "76.83%",
-    "uptimeYear": "97.85%",
+    "uptime": "98.13%",
+    "uptimeDay": "66.22%",
+    "uptimeWeek": "75.62%",
+    "uptimeMonth": "76.66%",
+    "uptimeYear": "97.83%",
     "time": 117,
     "timeDay": 126,
     "timeWeek": 119,
     "timeMonth": 114,
     "timeYear": 117,
     "dailyMinutesDown": {
-      "2023-10-23": 410,
+      "2023-10-24": 27,
+      "2023-10-23": 459,
       "2023-10-22": 259,
       "2023-10-21": 334,
       "2023-10-20": 568,
@@ -266,7 +267,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "96.65%",
-    "uptimeYear": "95.01%",
+    "uptimeYear": "95.02%",
     "time": 116,
     "timeDay": 156,
     "timeWeek": 124,
@@ -364,8 +365,7 @@
       "2022-11-16": 61,
       "2022-11-09": 28,
       "2022-11-03": 26,
-      "2022-11-01": 45,
-      "2022-10-24": 102
+      "2022-11-01": 45
     }
   },
   {
@@ -374,18 +374,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/backend.isbotdown.com.ico",
     "slug": "mention-test-bot",
     "status": "down",
-    "uptime": "98.23%",
-    "uptimeDay": "72.88%",
-    "uptimeWeek": "79.78%",
-    "uptimeMonth": "77.93%",
-    "uptimeYear": "97.95%",
+    "uptime": "98.22%",
+    "uptimeDay": "67.58%",
+    "uptimeWeek": "79.02%",
+    "uptimeMonth": "77.76%",
+    "uptimeYear": "97.94%",
     "time": 116,
     "timeDay": 123,
     "timeWeek": 117,
     "timeMonth": 112,
     "timeYear": 115,
     "dailyMinutesDown": {
-      "2023-10-23": 389,
+      "2023-10-24": 28,
+      "2023-10-23": 438,
       "2023-10-22": 214,
       "2023-10-21": 146,
       "2023-10-20": 425,
@@ -477,7 +478,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/backend.isbotdown.com.ico",
     "slug": "gen-face-bot",
     "status": "down",
-    "uptime": "3.37%",
+    "uptime": "3.36%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -488,7 +489,8 @@
     "timeMonth": 117,
     "timeYear": 116,
     "dailyMinutesDown": {
-      "2023-10-23": 1392,
+      "2023-10-24": 28,
+      "2023-10-23": 1440,
       "2023-10-22": 1440,
       "2023-10-21": 1440,
       "2023-10-20": 1440,
@@ -851,8 +853,7 @@
       "2022-10-28": 1440,
       "2022-10-27": 1440,
       "2022-10-26": 1440,
-      "2022-10-25": 1440,
-      "2022-10-24": 1440
+      "2022-10-25": 1440
     }
   },
   {
@@ -872,7 +873,8 @@
     "timeMonth": 3097,
     "timeYear": 8180,
     "dailyMinutesDown": {
-      "2023-10-23": 1392,
+      "2023-10-24": 28,
+      "2023-10-23": 1440,
       "2023-10-22": 1440,
       "2023-10-21": 1440,
       "2023-10-20": 1440,
@@ -1235,8 +1237,7 @@
       "2022-10-28": 1440,
       "2022-10-27": 1440,
       "2022-10-26": 1440,
-      "2022-10-25": 1440,
-      "2022-10-24": 1440
+      "2022-10-25": 1440
     }
   }
 ]
