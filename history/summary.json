@@ -215,18 +215,19 @@
     "url": "https://backend.isbotdown.com/bots/mentionrobot",
     "icon": "https://icons.duckduckgo.com/ip3/backend.isbotdown.com.ico",
     "slug": "mention-robot",
-    "status": "up",
-    "uptime": "98.47%",
-    "uptimeDay": "70.39%",
-    "uptimeWeek": "78.76%",
+    "status": "down",
+    "uptime": "98.48%",
+    "uptimeDay": "70.28%",
+    "uptimeWeek": "78.74%",
     "uptimeMonth": "76.25%",
-    "uptimeYear": "97.97%",
+    "uptimeYear": "97.99%",
     "time": 116,
-    "timeDay": 98,
+    "timeDay": 97,
     "timeWeek": 112,
     "timeMonth": 113,
     "timeYear": 116,
     "dailyMinutesDown": {
+      "2023-12-24": 1,
       "2023-12-23": 426,
       "2023-12-22": 266,
       "2023-12-21": 302,
@@ -257,7 +258,7 @@
       "2023-11-26": 486,
       "2023-11-25": 243,
       "2023-11-24": 466,
-      "2023-11-23": 247
+      "2023-11-23": 161
     }
   },
   {
@@ -372,18 +373,19 @@
     "url": "https://backend.isbotdown.com/bots/mentiontestbot",
     "icon": "https://icons.duckduckgo.com/ip3/backend.isbotdown.com.ico",
     "slug": "mention-test-bot",
-    "status": "up",
-    "uptime": "98.49%",
-    "uptimeDay": "83.13%",
-    "uptimeWeek": "75.62%",
-    "uptimeMonth": "77.60%",
-    "uptimeYear": "97.99%",
+    "status": "down",
+    "uptime": "98.50%",
+    "uptimeDay": "83.01%",
+    "uptimeWeek": "75.80%",
+    "uptimeMonth": "77.59%",
+    "uptimeYear": "98.01%",
     "time": 115,
-    "timeDay": 112,
-    "timeWeek": 107,
+    "timeDay": 108,
+    "timeWeek": 106,
     "timeMonth": 111,
     "timeYear": 115,
     "dailyMinutesDown": {
+      "2023-12-24": 2,
       "2023-12-23": 243,
       "2023-12-22": 348,
       "2023-12-21": 492,
@@ -416,7 +418,7 @@
       "2023-11-24": 460,
       "2023-11-23": 231,
       "2023-11-22": 345,
-      "2023-11-21": 155
+      "2023-11-21": 73
     }
   },
   {
@@ -483,7 +485,7 @@
     "timeMonth": 113,
     "timeYear": 115,
     "dailyMinutesDown": {
-      "2023-12-24": 32,
+      "2023-12-24": 88,
       "2023-12-23": 1440,
       "2023-12-22": 1440,
       "2023-12-21": 1440,
@@ -867,7 +869,7 @@
     "timeMonth": 4222,
     "timeYear": 6677,
     "dailyMinutesDown": {
-      "2023-12-24": 32,
+      "2023-12-24": 88,
       "2023-12-23": 1440,
       "2023-12-22": 1440,
       "2023-12-21": 1440,
