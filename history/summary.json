@@ -57,7 +57,7 @@
     "time": 8327,
     "timeDay": 10825,
     "timeWeek": 4840,
-    "timeMonth": 6079,
+    "timeMonth": 6055,
     "timeYear": 9009,
     "dailyMinutesDown": {
       "2023-12-18": 17,
@@ -118,7 +118,7 @@
     "time": 518,
     "timeDay": 674,
     "timeWeek": 512,
-    "timeMonth": 496,
+    "timeMonth": 497,
     "timeYear": 507,
     "dailyMinutesDown": {
       "2023-12-08": 79,
@@ -165,13 +165,13 @@
     "status": "up",
     "uptime": "98.37%",
     "uptimeDay": "75.08%",
-    "uptimeWeek": "75.49%",
+    "uptimeWeek": "76.02%",
     "uptimeMonth": "76.76%",
     "uptimeYear": "97.84%",
     "time": 120,
     "timeDay": 116,
     "timeWeek": 115,
-    "timeMonth": 111,
+    "timeMonth": 112,
     "timeYear": 120,
     "dailyMinutesDown": {
       "2023-12-24": 359,
@@ -216,10 +216,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/backend.isbotdown.com.ico",
     "slug": "mention-robot",
     "status": "up",
-    "uptime": "98.47%",
+    "uptime": "98.48%",
     "uptimeDay": "78.82%",
     "uptimeWeek": "77.53%",
-    "uptimeMonth": "76.50%",
+    "uptimeMonth": "76.68%",
     "uptimeYear": "97.98%",
     "time": 116,
     "timeDay": 114,
@@ -363,8 +363,7 @@
       "2023-01-07": 36,
       "2023-01-03": 23,
       "2023-01-02": 51,
-      "2022-12-27": 51,
-      "2022-12-25": 108
+      "2022-12-27": 51
     }
   },
   {
@@ -373,18 +372,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/backend.isbotdown.com.ico",
     "slug": "mention-test-bot",
     "status": "down",
-    "uptime": "98.52%",
-    "uptimeDay": "78.24%",
-    "uptimeWeek": "77.77%",
-    "uptimeMonth": "77.93%",
-    "uptimeYear": "98.03%",
+    "uptime": "98.50%",
+    "uptimeDay": "72.76%",
+    "uptimeWeek": "76.99%",
+    "uptimeMonth": "77.75%",
+    "uptimeYear": "98.01%",
     "time": 115,
     "timeDay": 103,
     "timeWeek": 107,
     "timeMonth": 110,
     "timeYear": 115,
     "dailyMinutesDown": {
-      "2023-12-24": 313,
+      "2023-12-25": 30,
+      "2023-12-24": 362,
       "2023-12-23": 243,
       "2023-12-22": 348,
       "2023-12-21": 492,
@@ -482,7 +482,8 @@
     "timeMonth": 115,
     "timeYear": 115,
     "dailyMinutesDown": {
-      "2023-12-24": 1392,
+      "2023-12-25": 31,
+      "2023-12-24": 1440,
       "2023-12-23": 1440,
       "2023-12-22": 1440,
       "2023-12-21": 1440,
@@ -845,8 +846,7 @@
       "2022-12-29": 1440,
       "2022-12-28": 1440,
       "2022-12-27": 1440,
-      "2022-12-26": 1440,
-      "2022-12-25": 1440
+      "2022-12-26": 1440
     }
   },
   {
@@ -866,7 +866,8 @@
     "timeMonth": 4199,
     "timeYear": 6648,
     "dailyMinutesDown": {
-      "2023-12-24": 1392,
+      "2023-12-25": 31,
+      "2023-12-24": 1440,
       "2023-12-23": 1440,
       "2023-12-22": 1440,
       "2023-12-21": 1440,
@@ -1229,8 +1230,7 @@
       "2022-12-29": 1440,
       "2022-12-28": 1440,
       "2022-12-27": 1440,
-      "2022-12-26": 1440,
-      "2022-12-25": 1440
+      "2022-12-26": 1440
     }
   }
 ]
