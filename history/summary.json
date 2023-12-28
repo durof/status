@@ -218,19 +218,19 @@
     "url": "https://backend.isbotdown.com/bots/mentionrobot",
     "icon": "https://icons.duckduckgo.com/ip3/backend.isbotdown.com.ico",
     "slug": "mention-robot",
-    "status": "up",
-    "uptime": "98.47%",
-    "uptimeDay": "83.72%",
-    "uptimeWeek": "74.75%",
-    "uptimeMonth": "76.63%",
-    "uptimeYear": "97.95%",
+    "status": "down",
+    "uptime": "98.48%",
+    "uptimeDay": "83.61%",
+    "uptimeWeek": "75.44%",
+    "uptimeMonth": "76.67%",
+    "uptimeYear": "97.97%",
     "time": 116,
-    "timeDay": 124,
+    "timeDay": 117,
     "timeWeek": 113,
-    "timeMonth": 112,
+    "timeMonth": 113,
     "timeYear": 116,
     "dailyMinutesDown": {
-      "2023-12-28": 79,
+      "2023-12-28": 81,
       "2023-12-27": 155,
       "2023-12-26": 513,
       "2023-12-25": 498,
@@ -261,7 +261,7 @@
       "2023-11-30": 460,
       "2023-11-29": 430,
       "2023-11-28": 235,
-      "2023-11-27": 525
+      "2023-11-27": 439
     }
   },
   {
@@ -374,19 +374,19 @@
     "url": "https://backend.isbotdown.com/bots/mentiontestbot",
     "icon": "https://icons.duckduckgo.com/ip3/backend.isbotdown.com.ico",
     "slug": "mention-test-bot",
-    "status": "up",
-    "uptime": "98.43%",
-    "uptimeDay": "58.28%",
-    "uptimeWeek": "71.61%",
+    "status": "down",
+    "uptime": "98.45%",
+    "uptimeDay": "58.16%",
+    "uptimeWeek": "71.59%",
     "uptimeMonth": "76.36%",
-    "uptimeYear": "97.91%",
+    "uptimeYear": "97.94%",
     "time": 115,
-    "timeDay": 111,
-    "timeWeek": 109,
+    "timeDay": 109,
+    "timeWeek": 108,
     "timeMonth": 111,
     "timeYear": 115,
     "dailyMinutesDown": {
-      "2023-12-28": 69,
+      "2023-12-28": 71,
       "2023-12-27": 531,
       "2023-12-26": 369,
       "2023-12-25": 524,
@@ -418,8 +418,7 @@
       "2023-11-29": 159,
       "2023-11-28": 145,
       "2023-11-27": 183,
-      "2023-11-26": 225,
-      "2023-11-25": 159
+      "2023-11-26": 225
     }
   },
   {
@@ -486,7 +485,7 @@
     "timeMonth": 116,
     "timeYear": 115,
     "dailyMinutesDown": {
-      "2023-12-28": 150,
+      "2023-12-28": 222,
       "2023-12-27": 1440,
       "2023-12-26": 1440,
       "2023-12-25": 1440,
@@ -870,7 +869,7 @@
     "timeMonth": 4251,
     "timeYear": 6528,
     "dailyMinutesDown": {
-      "2023-12-28": 150,
+      "2023-12-28": 222,
       "2023-12-27": 1440,
       "2023-12-26": 1440,
       "2023-12-25": 1440,
