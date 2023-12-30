@@ -167,7 +167,7 @@
     "status": "up",
     "uptime": "98.39%",
     "uptimeDay": "85.95%",
-    "uptimeWeek": "78.70%",
+    "uptimeWeek": "79.19%",
     "uptimeMonth": "77.63%",
     "uptimeYear": "97.83%",
     "time": 120,
@@ -218,19 +218,19 @@
     "url": "https://backend.isbotdown.com/bots/mentionrobot",
     "icon": "https://icons.duckduckgo.com/ip3/backend.isbotdown.com.ico",
     "slug": "mention-robot",
-    "status": "up",
-    "uptime": "98.45%",
-    "uptimeDay": "93.89%",
-    "uptimeWeek": "74.65%",
+    "status": "down",
+    "uptime": "98.47%",
+    "uptimeDay": "93.79%",
+    "uptimeWeek": "74.63%",
     "uptimeMonth": "76.57%",
-    "uptimeYear": "97.92%",
+    "uptimeYear": "97.94%",
     "time": 116,
-    "timeDay": 117,
+    "timeDay": 115,
     "timeWeek": 115,
     "timeMonth": 113,
     "timeYear": 116,
     "dailyMinutesDown": {
-      "2023-12-30": 88,
+      "2023-12-30": 90,
       "2023-12-29": 356,
       "2023-12-28": 548,
       "2023-12-27": 155,
@@ -261,7 +261,7 @@
       "2023-12-02": 292,
       "2023-12-01": 241,
       "2023-11-30": 460,
-      "2023-11-29": 430
+      "2023-11-29": 338
     }
   },
   {
@@ -483,7 +483,7 @@
     "timeMonth": 115,
     "timeYear": 116,
     "dailyMinutesDown": {
-      "2023-12-30": 984,
+      "2023-12-30": 1034,
       "2023-12-29": 1440,
       "2023-12-28": 1440,
       "2023-12-27": 1440,
@@ -867,7 +867,7 @@
     "timeMonth": 4259,
     "timeYear": 6484,
     "dailyMinutesDown": {
-      "2023-12-30": 984,
+      "2023-12-30": 1034,
       "2023-12-29": 1440,
       "2023-12-28": 1440,
       "2023-12-27": 1440,
