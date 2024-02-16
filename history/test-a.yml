@@ -1,7 +1,7 @@
 url: $TEST_A
-status: down
-code: 404
-responseTime: 295
-lastUpdated: 2024-02-16T23:09:20.820Z
+status: up
+code: 200
+responseTime: 530
+lastUpdated: 2024-02-16T23:15:59.162Z
 startTime: 2022-09-20T03:24:50.000Z
 generator: Upptime <https://github.com/upptime/upptime>
