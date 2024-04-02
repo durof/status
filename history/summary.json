@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.74%",
     "time": 590,
-    "timeDay": 220,
-    "timeWeek": 396,
-    "timeMonth": 420,
+    "timeDay": 724,
+    "timeWeek": 465,
+    "timeMonth": 431,
     "timeYear": 530,
     "dailyMinutesDown": {
       "2024-02-11": 17,
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.72%",
-    "time": 8502,
-    "timeDay": 2481,
-    "timeWeek": 1698,
+    "time": 8404,
+    "timeDay": 1394,
+    "timeWeek": 1741,
     "timeMonth": 2095,
-    "timeYear": 8279,
+    "timeYear": 8210,
     "dailyMinutesDown": {
       "2024-02-17": 209,
       "2024-02-16": 32,
@@ -113,9 +113,9 @@
     "uptimeMonth": "99.59%",
     "uptimeYear": "97.61%",
     "time": 514,
-    "timeDay": 414,
-    "timeWeek": 484,
-    "timeMonth": 486,
+    "timeDay": 387,
+    "timeWeek": 481,
+    "timeMonth": 479,
     "timeYear": 504,
     "dailyMinutesDown": {
       "2024-03-31": 98,
@@ -168,17 +168,18 @@
     "slug": "mention-bot",
     "status": "down",
     "uptime": "98.45%",
-    "uptimeDay": "85.49%",
-    "uptimeWeek": "72.48%",
-    "uptimeMonth": "74.19%",
-    "uptimeYear": "97.52%",
+    "uptimeDay": "79.46%",
+    "uptimeWeek": "71.72%",
+    "uptimeMonth": "73.99%",
+    "uptimeYear": "97.53%",
     "time": 119,
-    "timeDay": 118,
-    "timeWeek": 117,
-    "timeMonth": 111,
+    "timeDay": 110,
+    "timeWeek": 115,
+    "timeMonth": 110,
     "timeYear": 119,
     "dailyMinutesDown": {
-      "2024-04-01": 209,
+      "2024-04-02": 28,
+      "2024-04-01": 268,
       "2024-03-31": 207,
       "2024-03-30": 109,
       "2024-03-29": 496,
@@ -212,8 +213,7 @@
       "2024-03-01": 316,
       "2024-02-29": 467,
       "2024-02-28": 401,
-      "2024-02-27": 431,
-      "2024-02-26": 91
+      "2024-02-27": 431
     }
   },
   {
@@ -221,11 +221,11 @@
     "url": "https://backend.isbotdown.com/bots/mentionrobot",
     "icon": "https://icons.duckduckgo.com/ip3/backend.isbotdown.com.ico",
     "slug": "mention-robot",
-    "status": "up",
+    "status": "down",
     "uptime": "98.38%",
-    "uptimeDay": "72.25%",
-    "uptimeWeek": "69.26%",
-    "uptimeMonth": "73.30%",
+    "uptimeDay": "66.92%",
+    "uptimeWeek": "69.32%",
+    "uptimeMonth": "73.12%",
     "uptimeYear": "97.41%",
     "time": 114,
     "timeDay": 102,
@@ -233,7 +233,8 @@
     "timeMonth": 114,
     "timeYear": 114,
     "dailyMinutesDown": {
-      "2024-04-01": 400,
+      "2024-04-02": 28,
+      "2024-04-01": 448,
       "2024-03-31": 276,
       "2024-03-30": 298,
       "2024-03-29": 533,
@@ -269,7 +270,7 @@
       "2024-02-28": 301,
       "2024-02-27": 366,
       "2024-02-26": 360,
-      "2024-02-25": 272
+      "2024-02-25": 179
     }
   },
   {
@@ -282,11 +283,11 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.34%",
-    "uptimeYear": "96.33%",
+    "uptimeYear": "96.36%",
     "time": 114,
-    "timeDay": 86,
+    "timeDay": 85,
     "timeWeek": 110,
-    "timeMonth": 110,
+    "timeMonth": 108,
     "timeYear": 114,
     "dailyMinutesDown": {
       "2024-03-08": 114,
@@ -432,9 +433,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "97.61%",
     "time": 115,
-    "timeDay": 86,
+    "timeDay": 85,
     "timeWeek": 110,
-    "timeMonth": 107,
+    "timeMonth": 105,
     "timeYear": 115,
     "dailyMinutesDown": {
       "2024-02-17": 225,
@@ -483,12 +484,13 @@
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 115,
-    "timeDay": 85,
-    "timeWeek": 110,
+    "timeDay": 112,
+    "timeWeek": 114,
     "timeMonth": 107,
     "timeYear": 114,
     "dailyMinutesDown": {
-      "2024-04-01": 1296,
+      "2024-04-02": 29,
+      "2024-04-01": 1440,
       "2024-03-31": 1440,
       "2024-03-30": 1440,
       "2024-03-29": 1440,
@@ -851,8 +853,7 @@
       "2023-04-07": 1440,
       "2023-04-06": 1440,
       "2023-04-05": 1440,
-      "2023-04-04": 1440,
-      "2023-04-03": 1440
+      "2023-04-04": 1440
     }
   },
   {
@@ -861,16 +862,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "test-a",
     "status": "up",
-    "uptime": "12.50%",
+    "uptime": "12.52%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "17.42%",
-    "time": 5826,
-    "timeDay": 477,
-    "timeWeek": 737,
-    "timeMonth": 800,
-    "timeYear": 3610,
+    "uptimeYear": "17.45%",
+    "time": 5816,
+    "timeDay": 1332,
+    "timeWeek": 856,
+    "timeMonth": 818,
+    "timeYear": 3590,
     "dailyMinutesDown": {
       "2024-02-07": 1366,
       "2024-02-06": 1440,
@@ -1172,8 +1173,7 @@
       "2023-04-07": 1440,
       "2023-04-06": 1440,
       "2023-04-05": 1440,
-      "2023-04-04": 1440,
-      "2023-04-03": 1440
+      "2023-04-04": 1440
     }
   }
 ]
