@@ -166,12 +166,12 @@
     "status": "up",
     "uptime": "98.38%",
     "uptimeDay": "45.83%",
-    "uptimeWeek": "67.06%",
+    "uptimeWeek": "67.55%",
     "uptimeMonth": "71.66%",
     "uptimeYear": "97.38%",
     "time": 119,
     "timeDay": 115,
-    "timeWeek": 114,
+    "timeWeek": 115,
     "timeMonth": 112,
     "timeYear": 119,
     "dailyMinutesDown": {
@@ -218,18 +218,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/backend.isbotdown.com.ico",
     "slug": "mention-robot",
     "status": "down",
-    "uptime": "98.40%",
-    "uptimeDay": "85.25%",
+    "uptime": "98.39%",
+    "uptimeDay": "81.48%",
     "uptimeWeek": "78.53%",
-    "uptimeMonth": "73.61%",
-    "uptimeYear": "97.41%",
+    "uptimeMonth": "73.49%",
+    "uptimeYear": "97.40%",
     "time": 114,
     "timeDay": 113,
     "timeWeek": 117,
     "timeMonth": 114,
     "timeYear": 114,
     "dailyMinutesDown": {
-      "2024-04-08": 212,
+      "2024-04-09": 29,
+      "2024-04-08": 238,
       "2024-04-07": 484,
       "2024-04-06": 239,
       "2024-04-05": 300,
@@ -484,7 +485,8 @@
     "timeMonth": 111,
     "timeYear": 114,
     "dailyMinutesDown": {
-      "2024-04-08": 1415,
+      "2024-04-09": 29,
+      "2024-04-08": 1440,
       "2024-04-07": 1440,
       "2024-04-06": 1440,
       "2024-04-05": 1440,
@@ -847,8 +849,7 @@
       "2023-04-14": 1440,
       "2023-04-13": 1440,
       "2023-04-12": 1440,
-      "2023-04-11": 1440,
-      "2023-04-10": 1440
+      "2023-04-11": 1440
     }
   },
   {
@@ -861,7 +862,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "19.36%",
+    "uptimeYear": "19.37%",
     "time": 5632,
     "timeDay": 478,
     "timeWeek": 726,
@@ -1161,8 +1162,7 @@
       "2023-04-14": 1440,
       "2023-04-13": 1440,
       "2023-04-12": 1440,
-      "2023-04-11": 1440,
-      "2023-04-10": 1440
+      "2023-04-11": 1440
     }
   }
 ]
