@@ -166,7 +166,7 @@
     "slug": "mention-bot",
     "status": "up",
     "uptime": "98.44%",
-    "uptimeDay": "73.26%",
+    "uptimeDay": "76.66%",
     "uptimeWeek": "75.63%",
     "uptimeMonth": "72.79%",
     "uptimeYear": "97.41%",
@@ -221,7 +221,7 @@
     "slug": "mention-robot",
     "status": "up",
     "uptime": "98.35%",
-    "uptimeDay": "87.33%",
+    "uptimeDay": "90.74%",
     "uptimeWeek": "74.90%",
     "uptimeMonth": "73.39%",
     "uptimeYear": "97.26%",
@@ -373,16 +373,17 @@
     "status": "down",
     "uptime": "98.07%",
     "uptimeDay": "20.72%",
-    "uptimeWeek": "46.65%",
-    "uptimeMonth": "71.74%",
-    "uptimeYear": "96.80%",
+    "uptimeWeek": "46.16%",
+    "uptimeMonth": "71.63%",
+    "uptimeYear": "96.79%",
     "time": 114,
     "timeDay": 119,
     "timeWeek": 111,
     "timeMonth": 112,
     "timeYear": 114,
     "dailyMinutesDown": {
-      "2024-04-23": 1122,
+      "2024-04-24": 29,
+      "2024-04-23": 1142,
       "2024-04-22": 1440,
       "2024-04-21": 1440,
       "2024-04-20": 714,
@@ -498,7 +499,8 @@
     "timeMonth": 115,
     "timeYear": 114,
     "dailyMinutesDown": {
-      "2024-04-23": 1420,
+      "2024-04-24": 29,
+      "2024-04-23": 1440,
       "2024-04-22": 1440,
       "2024-04-21": 1440,
       "2024-04-20": 1440,
@@ -861,8 +863,7 @@
       "2023-04-29": 1440,
       "2023-04-28": 1440,
       "2023-04-27": 1440,
-      "2023-04-26": 1440,
-      "2023-04-25": 1440
+      "2023-04-26": 1440
     }
   },
   {
@@ -871,11 +872,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "test-a",
     "status": "up",
-    "uptime": "15.82%",
+    "uptime": "15.83%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "23.47%",
+    "uptimeYear": "23.48%",
     "time": 5204,
     "timeDay": 859,
     "timeWeek": 652,
@@ -1160,8 +1161,7 @@
       "2023-04-29": 1440,
       "2023-04-28": 1440,
       "2023-04-27": 1440,
-      "2023-04-26": 1440,
-      "2023-04-25": 1440
+      "2023-04-26": 1440
     }
   }
 ]
