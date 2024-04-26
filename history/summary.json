@@ -221,7 +221,7 @@
     "status": "up",
     "uptime": "98.34%",
     "uptimeDay": "80.30%",
-    "uptimeWeek": "75.34%",
+    "uptimeWeek": "75.37%",
     "uptimeMonth": "73.37%",
     "uptimeYear": "97.24%",
     "time": 114,
@@ -499,7 +499,7 @@
     "timeMonth": 116,
     "timeYear": 114,
     "dailyMinutesDown": {
-      "2024-04-26": 27,
+      "2024-04-26": 29,
       "2024-04-25": 1440,
       "2024-04-24": 1440,
       "2024-04-23": 1440,
