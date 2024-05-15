@@ -83,8 +83,7 @@
       "2023-05-21": 86,
       "2023-05-20": 12,
       "2023-05-19": 51,
-      "2023-05-17": 149,
-      "2023-05-16": 86
+      "2023-05-17": 149
     }
   },
   {
@@ -154,9 +153,9 @@
     "slug": "mention-bot",
     "status": "down",
     "uptime": "98.39%",
-    "uptimeDay": "72.70%",
-    "uptimeWeek": "69.91%",
-    "uptimeMonth": "72.87%",
+    "uptimeDay": "70.63%",
+    "uptimeWeek": "69.61%",
+    "uptimeMonth": "72.80%",
     "uptimeYear": "97.24%",
     "time": 119,
     "timeDay": 110,
@@ -164,6 +163,7 @@
     "timeMonth": 112,
     "timeYear": 119,
     "dailyMinutesDown": {
+      "2024-05-15": 30,
       "2024-05-14": 393,
       "2024-05-13": 341,
       "2024-05-12": 330,
@@ -210,10 +210,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/backend.isbotdown.com.ico",
     "slug": "mention-robot",
     "status": "down",
-    "uptime": "98.41%",
-    "uptimeDay": "68.74%",
-    "uptimeWeek": "72.67%",
-    "uptimeMonth": "73.74%",
+    "uptime": "98.40%",
+    "uptimeDay": "66.67%",
+    "uptimeWeek": "72.37%",
+    "uptimeMonth": "73.67%",
     "uptimeYear": "97.26%",
     "time": 114,
     "timeDay": 108,
@@ -221,7 +221,7 @@
     "timeMonth": 111,
     "timeYear": 114,
     "dailyMinutesDown": {
-      "2024-05-15": 0,
+      "2024-05-15": 30,
       "2024-05-14": 451,
       "2024-05-13": 439,
       "2024-05-12": 496,
@@ -492,7 +492,7 @@
     "timeMonth": 114,
     "timeYear": 114,
     "dailyMinutesDown": {
-      "2024-05-15": 1,
+      "2024-05-15": 30,
       "2024-05-14": 1440,
       "2024-05-13": 1440,
       "2024-05-12": 1440,
@@ -869,7 +869,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "29.23%",
+    "uptimeYear": "29.24%",
     "time": 4785,
     "timeDay": 1213,
     "timeWeek": 718,
