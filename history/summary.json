@@ -6,12 +6,12 @@
     "slug": "devs-today",
     "status": "up",
     "uptime": "99.73%",
-    "uptimeDay": "99.55%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.62%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.81%",
     "time": 517,
-    "timeDay": 536,
+    "timeDay": 523,
     "timeWeek": 434,
     "timeMonth": 431,
     "timeYear": 444,
@@ -141,18 +141,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/backend.isbotdown.com.ico",
     "slug": "mention-bot",
     "status": "down",
-    "uptime": "98.42%",
-    "uptimeDay": "55.49%",
-    "uptimeWeek": "71.61%",
+    "uptime": "98.41%",
+    "uptimeDay": "52.19%",
+    "uptimeWeek": "71.14%",
     "uptimeMonth": "71.53%",
-    "uptimeYear": "96.98%",
+    "uptimeYear": "96.97%",
     "time": 113,
     "timeDay": 106,
     "timeWeek": 109,
     "timeMonth": 111,
     "timeYear": 113,
     "dailyMinutesDown": {
-      "2024-07-22": 641,
+      "2024-07-23": 33,
+      "2024-07-22": 656,
       "2024-07-21": 241,
       "2024-07-20": 209,
       "2024-07-19": 309,
@@ -489,7 +490,8 @@
     "timeMonth": 102,
     "timeYear": 113,
     "dailyMinutesDown": {
-      "2024-07-22": 1426,
+      "2024-07-23": 33,
+      "2024-07-22": 1440,
       "2024-07-21": 1440,
       "2024-07-20": 1440,
       "2024-07-19": 1440,
@@ -852,8 +854,7 @@
       "2023-07-28": 1440,
       "2023-07-27": 1440,
       "2023-07-26": 1440,
-      "2023-07-25": 1440,
-      "2023-07-24": 1440
+      "2023-07-25": 1440
     }
   },
   {
@@ -866,7 +867,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "48.13%",
+    "uptimeYear": "48.14%",
     "time": 3241,
     "timeDay": 957,
     "timeWeek": 735,
@@ -1061,8 +1062,7 @@
       "2023-07-28": 1440,
       "2023-07-27": 1440,
       "2023-07-26": 1440,
-      "2023-07-25": 1440,
-      "2023-07-24": 1440
+      "2023-07-25": 1440
     }
   }
 ]
