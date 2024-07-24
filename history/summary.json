@@ -142,7 +142,7 @@
     "slug": "mention-bot",
     "status": "up",
     "uptime": "98.42%",
-    "uptimeDay": "75.24%",
+    "uptimeDay": "79.79%",
     "uptimeWeek": "73.60%",
     "uptimeMonth": "71.77%",
     "uptimeYear": "96.98%",
@@ -201,7 +201,7 @@
     "uptime": "98.55%",
     "uptimeDay": "85.98%",
     "uptimeWeek": "77.50%",
-    "uptimeMonth": "75.61%",
+    "uptimeMonth": "75.76%",
     "uptimeYear": "97.24%",
     "time": 113,
     "timeDay": 130,
@@ -260,18 +260,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/backend.isbotdown.com.ico",
     "slug": "mention-mirror-bot",
     "status": "down",
-    "uptime": "97.81%",
-    "uptimeDay": "98.80%",
-    "uptimeWeek": "95.64%",
-    "uptimeMonth": "97.57%",
-    "uptimeYear": "98.02%",
+    "uptime": "97.80%",
+    "uptimeDay": "95.42%",
+    "uptimeWeek": "94.99%",
+    "uptimeMonth": "97.42%",
+    "uptimeYear": "98.01%",
     "time": 112,
-    "timeDay": 128,
+    "timeDay": 120,
     "timeWeek": 100,
     "timeMonth": 106,
     "timeYear": 112,
     "dailyMinutesDown": {
-      "2024-07-23": 0,
+      "2024-07-24": 34,
+      "2024-07-23": 32,
       "2024-07-22": 212,
       "2024-07-20": 113,
       "2024-07-17": 115,
@@ -491,7 +492,8 @@
     "timeMonth": 104,
     "timeYear": 113,
     "dailyMinutesDown": {
-      "2024-07-23": 1408,
+      "2024-07-24": 34,
+      "2024-07-23": 1440,
       "2024-07-22": 1440,
       "2024-07-21": 1440,
       "2024-07-20": 1440,
@@ -854,8 +856,7 @@
       "2023-07-29": 1440,
       "2023-07-28": 1440,
       "2023-07-27": 1440,
-      "2023-07-26": 1440,
-      "2023-07-25": 1440
+      "2023-07-26": 1440
     }
   },
   {
@@ -868,7 +869,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "48.40%",
+    "uptimeYear": "48.41%",
     "time": 3222,
     "timeDay": 656,
     "timeWeek": 723,
@@ -1062,8 +1063,7 @@
       "2023-07-29": 1440,
       "2023-07-28": 1440,
       "2023-07-27": 1440,
-      "2023-07-26": 1440,
-      "2023-07-25": 1440
+      "2023-07-26": 1440
     }
   }
 ]
