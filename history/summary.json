@@ -33,7 +33,7 @@
     "uptime": "98.84%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "91.15%",
+    "uptimeMonth": "91.54%",
     "uptimeYear": "98.45%",
     "time": 2754,
     "timeDay": 472,
@@ -128,18 +128,19 @@
     "url": "https://backend.isbotdown.com/bots/mentionbot",
     "icon": "https://icons.duckduckgo.com/ip3/backend.isbotdown.com.ico",
     "slug": "mention-bot",
-    "status": "up",
-    "uptime": "98.73%",
-    "uptimeDay": "85.61%",
+    "status": "down",
+    "uptime": "98.74%",
+    "uptimeDay": "85.59%",
     "uptimeWeek": "83.40%",
-    "uptimeMonth": "75.77%",
-    "uptimeYear": "97.01%",
+    "uptimeMonth": "76.16%",
+    "uptimeYear": "97.03%",
     "time": 111,
-    "timeDay": 117,
+    "timeDay": 115,
     "timeWeek": 116,
     "timeMonth": 111,
     "timeYear": 111,
     "dailyMinutesDown": {
+      "2025-01-04": 0,
       "2025-01-03": 208,
       "2025-01-02": 540,
       "2025-01-01": 206,
@@ -182,7 +183,7 @@
       "2024-11-25": 544,
       "2024-11-24": 529,
       "2024-11-23": 347,
-      "2024-11-22": 279
+      "2024-11-22": 167
     }
   },
   {
@@ -190,18 +191,19 @@
     "url": "https://backend.isbotdown.com/bots/mentionrobot",
     "icon": "https://icons.duckduckgo.com/ip3/backend.isbotdown.com.ico",
     "slug": "mention-robot",
-    "status": "up",
-    "uptime": "98.73%",
-    "uptimeDay": "61.97%",
-    "uptimeWeek": "78.89%",
-    "uptimeMonth": "78.26%",
-    "uptimeYear": "97.00%",
+    "status": "down",
+    "uptime": "98.74%",
+    "uptimeDay": "68.76%",
+    "uptimeWeek": "79.30%",
+    "uptimeMonth": "78.34%",
+    "uptimeYear": "97.02%",
     "time": 112,
     "timeDay": 101,
     "timeWeek": 108,
     "timeMonth": 111,
     "timeYear": 111,
     "dailyMinutesDown": {
+      "2025-01-04": 0,
       "2025-01-03": 549,
       "2025-01-02": 336,
       "2024-12-31": 315,
@@ -249,8 +251,7 @@
       "2024-11-17": 517,
       "2024-11-16": 377,
       "2024-11-15": 110,
-      "2024-11-14": 187,
-      "2024-11-13": 111
+      "2024-11-14": 187
     }
   },
   {
@@ -490,7 +491,7 @@
     "timeMonth": 118,
     "timeYear": 112,
     "dailyMinutesDown": {
-      "2025-01-04": 38,
+      "2025-01-04": 208,
       "2025-01-03": 1440,
       "2025-01-02": 1440,
       "2025-01-01": 1440,
@@ -874,7 +875,7 @@
     "timeMonth": 0,
     "timeYear": 780,
     "dailyMinutesDown": {
-      "2025-01-04": 38,
+      "2025-01-04": 208,
       "2025-01-03": 1440,
       "2025-01-02": 1440,
       "2025-01-01": 1440,
