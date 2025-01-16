@@ -121,15 +121,15 @@
     "url": "https://backend.isbotdown.com/bots/mentionbot",
     "icon": "https://icons.duckduckgo.com/ip3/backend.isbotdown.com.ico",
     "slug": "mention-bot",
-    "status": "up",
-    "uptime": "98.81%",
-    "uptimeDay": "75.77%",
+    "status": "down",
+    "uptime": "98.82%",
+    "uptimeDay": "75.75%",
     "uptimeWeek": "79.83%",
-    "uptimeMonth": "78.89%",
-    "uptimeYear": "97.15%",
+    "uptimeMonth": "78.94%",
+    "uptimeYear": "97.17%",
     "time": 111,
-    "timeDay": 120,
-    "timeWeek": 122,
+    "timeDay": 115,
+    "timeWeek": 121,
     "timeMonth": 115,
     "timeYear": 111,
     "dailyMinutesDown": {
@@ -177,8 +177,7 @@
       "2024-12-06": 455,
       "2024-12-05": 543,
       "2024-12-04": 489,
-      "2024-12-03": 365,
-      "2024-12-02": 124
+      "2024-12-03": 365
     }
   },
   {
@@ -484,7 +483,7 @@
     "timeMonth": 119,
     "timeYear": 112,
     "dailyMinutesDown": {
-      "2025-01-16": 821,
+      "2025-01-16": 841,
       "2025-01-15": 1440,
       "2025-01-14": 1440,
       "2025-01-13": 1440,
@@ -868,7 +867,7 @@
     "timeMonth": 0,
     "timeYear": 791,
     "dailyMinutesDown": {
-      "2025-01-16": 821,
+      "2025-01-16": 841,
       "2025-01-15": 1440,
       "2025-01-14": 1440,
       "2025-01-13": 1440,
