@@ -115,12 +115,12 @@
     "status": "up",
     "uptime": "98.92%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "81.11%",
+    "uptimeWeek": "81.83%",
     "uptimeMonth": "83.83%",
     "uptimeYear": "97.29%",
     "time": 111,
     "timeDay": 105,
-    "timeWeek": 118,
+    "timeWeek": 117,
     "timeMonth": 115,
     "timeYear": 111,
     "dailyMinutesDown": {
@@ -187,7 +187,7 @@
     "slug": "mention-robot",
     "status": "up",
     "uptime": "98.80%",
-    "uptimeDay": "73.33%",
+    "uptimeDay": "79.34%",
     "uptimeWeek": "79.47%",
     "uptimeMonth": "80.07%",
     "uptimeYear": "97.00%",
@@ -491,7 +491,8 @@
     "timeMonth": 113,
     "timeYear": 112,
     "dailyMinutesDown": {
-      "2025-02-24": 1393,
+      "2025-02-25": 40,
+      "2025-02-24": 1440,
       "2025-02-23": 1440,
       "2025-02-22": 1440,
       "2025-02-21": 1440,
@@ -854,8 +855,7 @@
       "2024-03-01": 1440,
       "2024-02-29": 1440,
       "2024-02-28": 1440,
-      "2024-02-27": 1440,
-      "2024-02-26": 1440
+      "2024-02-27": 1440
     }
   },
   {
@@ -868,14 +868,15 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "75.08%",
+    "uptimeYear": "75.06%",
     "time": 1238,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 797,
     "dailyMinutesDown": {
-      "2025-02-24": 1393,
+      "2025-02-25": 40,
+      "2025-02-24": 1440,
       "2025-02-23": 1440,
       "2025-02-22": 1440,
       "2025-02-21": 1440,
