@@ -120,18 +120,19 @@
     "url": "https://backend.isbotdown.com/bots/mentionbot",
     "icon": "https://icons.duckduckgo.com/ip3/backend.isbotdown.com.ico",
     "slug": "mention-bot",
-    "status": "up",
-    "uptime": "97.66%",
-    "uptimeDay": "19.86%",
-    "uptimeWeek": "2.84%",
+    "status": "down",
+    "uptime": "97.67%",
+    "uptimeDay": "20.27%",
+    "uptimeWeek": "2.90%",
     "uptimeMonth": "49.68%",
-    "uptimeYear": "93.80%",
+    "uptimeYear": "93.82%",
     "time": 112,
-    "timeDay": 135,
-    "timeWeek": 124,
+    "timeDay": 126,
+    "timeWeek": 121,
     "timeMonth": 116,
     "timeYear": 111,
     "dailyMinutesDown": {
+      "2025-04-21": 0,
       "2025-04-20": 1199,
       "2025-04-19": 1440,
       "2025-04-18": 1440,
@@ -195,8 +196,7 @@
       "2025-02-16": 119,
       "2025-02-15": 233,
       "2025-02-13": 118,
-      "2025-02-12": 590,
-      "2025-02-11": 117
+      "2025-02-12": 590
     }
   },
   {
@@ -204,18 +204,19 @@
     "url": "https://backend.isbotdown.com/bots/mentionrobot",
     "icon": "https://icons.duckduckgo.com/ip3/backend.isbotdown.com.ico",
     "slug": "mention-robot",
-    "status": "up",
-    "uptime": "99.23%",
-    "uptimeDay": "86.99%",
-    "uptimeWeek": "86.06%",
+    "status": "down",
+    "uptime": "99.24%",
+    "uptimeDay": "86.97%",
+    "uptimeWeek": "86.05%",
     "uptimeMonth": "79.26%",
-    "uptimeYear": "97.97%",
+    "uptimeYear": "97.99%",
     "time": 112,
-    "timeDay": 106,
+    "timeDay": 105,
     "timeWeek": 109,
     "timeMonth": 114,
     "timeYear": 112,
     "dailyMinutesDown": {
+      "2025-04-21": 0,
       "2025-04-20": 187,
       "2025-04-19": 260,
       "2025-04-18": 177,
@@ -250,8 +251,7 @@
       "2025-03-20": 369,
       "2025-03-19": 465,
       "2025-03-18": 528,
-      "2025-03-17": 124,
-      "2025-03-16": 120
+      "2025-03-17": 124
     }
   },
   {
@@ -508,7 +508,7 @@
     "timeMonth": 116,
     "timeYear": 113,
     "dailyMinutesDown": {
-      "2025-04-21": 45,
+      "2025-04-21": 51,
       "2025-04-20": 1440,
       "2025-04-19": 1440,
       "2025-04-18": 1440,
@@ -892,7 +892,7 @@
     "timeMonth": 0,
     "timeYear": 798,
     "dailyMinutesDown": {
-      "2025-04-21": 45,
+      "2025-04-21": 51,
       "2025-04-20": 1440,
       "2025-04-19": 1440,
       "2025-04-18": 1440,
