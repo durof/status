@@ -120,12 +120,12 @@
     "url": "https://backend.isbotdown.com/bots/mentionbot",
     "icon": "https://icons.duckduckgo.com/ip3/backend.isbotdown.com.ico",
     "slug": "mention-bot",
-    "status": "up",
-    "uptime": "98.12%",
-    "uptimeDay": "78.49%",
+    "status": "down",
+    "uptime": "98.13%",
+    "uptimeDay": "79.37%",
     "uptimeWeek": "84.00%",
     "uptimeMonth": "52.89%",
-    "uptimeYear": "94.96%",
+    "uptimeYear": "94.98%",
     "time": 111,
     "timeDay": 103,
     "timeWeek": 108,
@@ -179,7 +179,7 @@
       "2025-03-20": 224,
       "2025-03-19": 370,
       "2025-03-18": 467,
-      "2025-03-17": 332
+      "2025-03-17": 222
     }
   },
   {
@@ -187,14 +187,14 @@
     "url": "https://backend.isbotdown.com/bots/mentionrobot",
     "icon": "https://icons.duckduckgo.com/ip3/backend.isbotdown.com.ico",
     "slug": "mention-robot",
-    "status": "up",
-    "uptime": "99.66%",
-    "uptimeDay": "81.74%",
+    "status": "down",
+    "uptime": "99.67%",
+    "uptimeDay": "82.95%",
     "uptimeWeek": "82.52%",
-    "uptimeMonth": "89.19%",
-    "uptimeYear": "99.10%",
+    "uptimeMonth": "89.30%",
+    "uptimeYear": "99.11%",
     "time": 112,
-    "timeDay": 150,
+    "timeDay": 148,
     "timeWeek": 123,
     "timeMonth": 116,
     "timeYear": 112,
@@ -219,8 +219,7 @@
       "2025-04-16": 65,
       "2025-04-15": 327,
       "2025-04-14": 130,
-      "2025-04-13": 236,
-      "2025-04-12": 47
+      "2025-04-13": 236
     }
   },
   {
@@ -483,7 +482,7 @@
     "timeMonth": 158,
     "timeYear": 116,
     "dailyMinutesDown": {
-      "2025-05-03": 623,
+      "2025-05-03": 681,
       "2025-05-02": 1440,
       "2025-05-01": 1440,
       "2025-04-30": 1440,
@@ -860,14 +859,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "56.59%",
+    "uptimeYear": "56.58%",
     "time": 810,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 803,
     "dailyMinutesDown": {
-      "2025-05-03": 623,
+      "2025-05-03": 681,
       "2025-05-02": 1440,
       "2025-05-01": 1440,
       "2025-04-30": 1440,
