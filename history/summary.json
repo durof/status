@@ -6,7 +6,7 @@
     "slug": "devs-today",
     "status": "up",
     "uptime": "99.79%",
-    "uptimeDay": "97.63%",
+    "uptimeDay": "97.65%",
     "uptimeWeek": "99.66%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.95%",
@@ -124,17 +124,17 @@
     "slug": "mention-bot",
     "status": "up",
     "uptime": "98.44%",
-    "uptimeDay": "66.78%",
-    "uptimeWeek": "80.98%",
-    "uptimeMonth": "51.90%",
-    "uptimeYear": "95.81%",
+    "uptimeDay": "69.10%",
+    "uptimeWeek": "81.08%",
+    "uptimeMonth": "51.98%",
+    "uptimeYear": "95.79%",
     "time": 111,
-    "timeDay": 113,
+    "timeDay": 111,
     "timeWeek": 108,
     "timeMonth": 112,
     "timeYear": 111,
     "dailyMinutesDown": {
-      "2025-05-07": 155,
+      "2025-05-07": 145,
       "2025-05-06": 352,
       "2025-05-05": 184,
       "2025-05-04": 398,
@@ -169,7 +169,8 @@
       "2025-04-05": 255,
       "2025-04-04": 200,
       "2025-04-03": 203,
-      "2025-04-02": 103
+      "2025-04-02": 103,
+      "2025-04-01": 104
     }
   },
   {
@@ -177,14 +178,14 @@
     "url": "https://backend.isbotdown.com/bots/mentionrobot",
     "icon": "https://icons.duckduckgo.com/ip3/backend.isbotdown.com.ico",
     "slug": "mention-robot",
-    "status": "up",
+    "status": "down",
     "uptime": "99.68%",
-    "uptimeDay": "78.48%",
-    "uptimeWeek": "76.54%",
-    "uptimeMonth": "89.62%",
+    "uptimeDay": "78.44%",
+    "uptimeWeek": "76.74%",
+    "uptimeMonth": "89.73%",
     "uptimeYear": "99.14%",
     "time": 113,
-    "timeDay": 127,
+    "timeDay": 128,
     "timeWeek": 132,
     "timeMonth": 120,
     "timeYear": 113,
@@ -206,7 +207,7 @@
       "2025-04-23": 361,
       "2025-04-22": 181,
       "2025-04-21": 207,
-      "2025-04-20": 172
+      "2025-04-20": 123
     }
   },
   {
@@ -468,7 +469,7 @@
     "timeMonth": 181,
     "timeYear": 118,
     "dailyMinutesDown": {
-      "2025-05-07": 595,
+      "2025-05-07": 619,
       "2025-05-06": 1440,
       "2025-05-05": 1440,
       "2025-05-04": 1440,
@@ -852,7 +853,7 @@
     "timeMonth": 0,
     "timeYear": 801,
     "dailyMinutesDown": {
-      "2025-05-07": 595,
+      "2025-05-07": 619,
       "2025-05-06": 1440,
       "2025-05-05": 1440,
       "2025-05-04": 1440,
