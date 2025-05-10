@@ -125,7 +125,7 @@
     "status": "down",
     "uptime": "98.27%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "51.96%",
+    "uptimeWeek": "51.85%",
     "uptimeMonth": "48.80%",
     "uptimeYear": "95.31%",
     "time": 111,
@@ -134,7 +134,7 @@
     "timeMonth": 111,
     "timeYear": 111,
     "dailyMinutesDown": {
-      "2025-05-10": 1282,
+      "2025-05-10": 1292,
       "2025-05-09": 1440,
       "2025-05-08": 831,
       "2025-05-07": 353,
@@ -174,12 +174,12 @@
     "url": "https://backend.isbotdown.com/bots/mentionrobot",
     "icon": "https://icons.duckduckgo.com/ip3/backend.isbotdown.com.ico",
     "slug": "mention-robot",
-    "status": "up",
-    "uptime": "99.48%",
-    "uptimeDay": "25.28%",
-    "uptimeWeek": "54.93%",
-    "uptimeMonth": "83.21%",
-    "uptimeYear": "98.60%",
+    "status": "down",
+    "uptime": "99.49%",
+    "uptimeDay": "25.27%",
+    "uptimeWeek": "54.92%",
+    "uptimeMonth": "83.57%",
+    "uptimeYear": "98.63%",
     "time": 113,
     "timeDay": 121,
     "timeWeek": 126,
@@ -203,7 +203,7 @@
       "2025-04-26": 140,
       "2025-04-25": 208,
       "2025-04-24": 255,
-      "2025-04-23": 361
+      "2025-04-23": 204
     }
   },
   {
@@ -213,7 +213,7 @@
     "slug": "mention-mirror-bot",
     "status": "up",
     "uptime": "98.65%",
-    "uptimeDay": "31.10%",
+    "uptimeDay": "31.84%",
     "uptimeWeek": "70.08%",
     "uptimeMonth": "91.94%",
     "uptimeYear": "96.50%",
@@ -467,7 +467,7 @@
     "timeMonth": 180,
     "timeYear": 118,
     "dailyMinutesDown": {
-      "2025-05-10": 1282,
+      "2025-05-10": 1293,
       "2025-05-09": 1440,
       "2025-05-08": 1440,
       "2025-05-07": 1440,
@@ -851,7 +851,7 @@
     "timeMonth": 0,
     "timeYear": 801,
     "dailyMinutesDown": {
-      "2025-05-10": 1282,
+      "2025-05-10": 1293,
       "2025-05-09": 1440,
       "2025-05-08": 1440,
       "2025-05-07": 1440,
