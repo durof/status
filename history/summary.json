@@ -121,11 +121,11 @@
     "url": "https://backend.isbotdown.com/bots/mentionbot",
     "icon": "https://icons.duckduckgo.com/ip3/backend.isbotdown.com.ico",
     "slug": "mention-bot",
-    "status": "up",
-    "uptime": "99.23%",
-    "uptimeDay": "92.51%",
+    "status": "down",
+    "uptime": "99.24%",
+    "uptimeDay": "92.49%",
     "uptimeWeek": "33.94%",
-    "uptimeMonth": "75.04%",
+    "uptimeMonth": "75.08%",
     "uptimeYear": "97.92%",
     "time": 112,
     "timeDay": 111,
@@ -156,7 +156,7 @@
       "2025-04-24": 221,
       "2025-04-23": 295,
       "2025-04-22": 305,
-      "2025-04-21": 232
+      "2025-04-21": 212
     }
   },
   {
@@ -166,17 +166,17 @@
     "slug": "mention-robot",
     "status": "up",
     "uptime": "99.53%",
-    "uptimeDay": "82.45%",
-    "uptimeWeek": "57.67%",
-    "uptimeMonth": "84.72%",
-    "uptimeYear": "98.73%",
+    "uptimeDay": "83.34%",
+    "uptimeWeek": "58.03%",
+    "uptimeMonth": "84.64%",
+    "uptimeYear": "98.72%",
     "time": 114,
     "timeDay": 139,
     "timeWeek": 135,
     "timeMonth": 125,
     "timeYear": 114,
     "dailyMinutesDown": {
-      "2025-05-14": 127,
+      "2025-05-14": 114,
       "2025-05-13": 307,
       "2025-05-12": 436,
       "2025-05-11": 113,
@@ -190,7 +190,7 @@
       "2025-05-03": 254,
       "2025-05-02": 347,
       "2025-05-01": 372,
-      "2025-04-30": 191
+      "2025-04-30": 243
     }
   },
   {
@@ -456,7 +456,7 @@
     "timeMonth": 179,
     "timeYear": 118,
     "dailyMinutesDown": {
-      "2025-05-14": 1018,
+      "2025-05-14": 1068,
       "2025-05-13": 1440,
       "2025-05-12": 1440,
       "2025-05-11": 1440,
@@ -833,14 +833,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "53.51%",
+    "uptimeYear": "53.50%",
     "time": 787,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 806,
     "dailyMinutesDown": {
-      "2025-05-14": 1018,
+      "2025-05-14": 1068,
       "2025-05-13": 1440,
       "2025-05-12": 1440,
       "2025-05-11": 1440,
