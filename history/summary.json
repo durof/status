@@ -155,16 +155,16 @@
     "url": "https://backend.isbotdown.com/bots/mentionrobot",
     "icon": "https://icons.duckduckgo.com/ip3/backend.isbotdown.com.ico",
     "slug": "mention-robot",
-    "status": "up",
-    "uptime": "99.61%",
-    "uptimeDay": "67.06%",
+    "status": "down",
+    "uptime": "99.62%",
+    "uptimeDay": "67.04%",
     "uptimeWeek": "72.87%",
-    "uptimeMonth": "87.09%",
-    "uptimeYear": "98.92%",
+    "uptimeMonth": "87.20%",
+    "uptimeYear": "98.93%",
     "time": 118,
-    "timeDay": 107,
+    "timeDay": 105,
     "timeWeek": 113,
-    "timeMonth": 145,
+    "timeMonth": 144,
     "timeYear": 119,
     "dailyMinutesDown": {
       "2025-06-09": 475,
@@ -186,7 +186,7 @@
       "2025-05-23": 125,
       "2025-05-22": 298,
       "2025-05-21": 42,
-      "2025-05-20": 188
+      "2025-05-20": 139
     }
   },
   {
@@ -198,7 +198,7 @@
     "uptime": "98.99%",
     "uptimeDay": "95.09%",
     "uptimeWeek": "94.48%",
-    "uptimeMonth": "92.05%",
+    "uptimeMonth": "92.11%",
     "uptimeYear": "97.19%",
     "time": 115,
     "timeDay": 94,
@@ -397,7 +397,7 @@
     "status": "up",
     "uptime": "97.33%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "53.07%",
+    "uptimeWeek": "53.32%",
     "uptimeMonth": "45.71%",
     "uptimeYear": "95.21%",
     "time": 112,
@@ -450,7 +450,7 @@
     "timeMonth": 108,
     "timeYear": 117,
     "dailyMinutesDown": {
-      "2025-06-09": 1019,
+      "2025-06-09": 1044,
       "2025-06-08": 1440,
       "2025-06-07": 1440,
       "2025-06-06": 1440,
@@ -834,7 +834,7 @@
     "timeMonth": 0,
     "timeYear": 814,
     "dailyMinutesDown": {
-      "2025-06-09": 1019,
+      "2025-06-09": 1044,
       "2025-06-08": 1440,
       "2025-06-07": 1440,
       "2025-06-06": 1440,
