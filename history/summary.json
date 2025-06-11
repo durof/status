@@ -115,12 +115,12 @@
     "url": "https://backend.isbotdown.com/bots/mentionbot",
     "icon": "https://icons.duckduckgo.com/ip3/backend.isbotdown.com.ico",
     "slug": "mention-bot",
-    "status": "up",
+    "status": "down",
     "uptime": "99.68%",
-    "uptimeDay": "81.49%",
+    "uptimeDay": "84.52%",
     "uptimeWeek": "88.20%",
-    "uptimeMonth": "89.13%",
-    "uptimeYear": "99.09%",
+    "uptimeMonth": "89.24%",
+    "uptimeYear": "99.10%",
     "time": 114,
     "timeDay": 117,
     "timeWeek": 121,
@@ -146,7 +146,7 @@
       "2025-05-23": 230,
       "2025-05-22": 92,
       "2025-05-21": 123,
-      "2025-05-20": 205
+      "2025-05-20": 156
     }
   },
   {
@@ -163,7 +163,7 @@
     "time": 118,
     "timeDay": 106,
     "timeWeek": 115,
-    "timeMonth": 142,
+    "timeMonth": 143,
     "timeYear": 118,
     "dailyMinutesDown": {
       "2025-06-11": 193,
@@ -194,17 +194,16 @@
     "slug": "mention-mirror-bot",
     "status": "up",
     "uptime": "99.09%",
-    "uptimeDay": "99.05%",
-    "uptimeWeek": "92.81%",
-    "uptimeMonth": "94.66%",
-    "uptimeYear": "97.46%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "92.94%",
+    "uptimeMonth": "94.69%",
+    "uptimeYear": "97.45%",
     "time": 116,
     "timeDay": 98,
     "timeWeek": 115,
     "timeMonth": 135,
     "timeYear": 117,
     "dailyMinutesDown": {
-      "2025-06-11": 14,
       "2025-06-10": 159,
       "2025-06-09": 101,
       "2025-06-08": 130,
@@ -275,7 +274,8 @@
       "2024-12-24": 863,
       "2024-12-23": 143,
       "2024-12-17": 81,
-      "2024-12-13": 109
+      "2024-12-13": 109,
+      "2024-12-05": 102
     }
   },
   {
@@ -391,7 +391,7 @@
     "status": "up",
     "uptime": "97.33%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "83.91%",
+    "uptimeWeek": "84.52%",
     "uptimeMonth": "45.71%",
     "uptimeYear": "95.21%",
     "time": 112,
@@ -444,7 +444,7 @@
     "timeMonth": 107,
     "timeYear": 117,
     "dailyMinutesDown": {
-      "2025-06-11": 1248,
+      "2025-06-11": 1309,
       "2025-06-10": 1440,
       "2025-06-09": 1440,
       "2025-06-08": 1440,
@@ -821,14 +821,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "45.79%",
+    "uptimeYear": "45.78%",
     "time": 806,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 814,
     "dailyMinutesDown": {
-      "2025-06-11": 1248,
+      "2025-06-11": 1309,
       "2025-06-10": 1440,
       "2025-06-09": 1440,
       "2025-06-08": 1440,
