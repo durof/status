@@ -151,15 +151,15 @@
     "url": "https://backend.isbotdown.com/bots/mentionrobot",
     "icon": "https://icons.duckduckgo.com/ip3/backend.isbotdown.com.ico",
     "slug": "mention-robot",
-    "status": "up",
-    "uptime": "99.60%",
-    "uptimeDay": "85.27%",
-    "uptimeWeek": "91.89%",
-    "uptimeMonth": "86.61%",
-    "uptimeYear": "98.88%",
+    "status": "down",
+    "uptime": "99.61%",
+    "uptimeDay": "85.25%",
+    "uptimeWeek": "91.88%",
+    "uptimeMonth": "86.75%",
+    "uptimeYear": "98.90%",
     "time": 118,
-    "timeDay": 112,
-    "timeWeek": 122,
+    "timeDay": 109,
+    "timeWeek": 121,
     "timeMonth": 129,
     "timeYear": 119,
     "dailyMinutesDown": {
@@ -185,7 +185,7 @@
       "2025-05-29": 330,
       "2025-05-28": 465,
       "2025-05-27": 232,
-      "2025-05-26": 73
+      "2025-05-26": 13
     }
   },
   {
@@ -194,18 +194,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/backend.isbotdown.com.ico",
     "slug": "mention-mirror-bot",
     "status": "up",
-    "uptime": "99.20%",
-    "uptimeDay": "97.61%",
-    "uptimeWeek": "96.94%",
-    "uptimeMonth": "95.81%",
-    "uptimeYear": "97.74%",
+    "uptime": "99.19%",
+    "uptimeDay": "98.35%",
+    "uptimeWeek": "97.05%",
+    "uptimeMonth": "95.84%",
+    "uptimeYear": "97.72%",
     "time": 116,
     "timeDay": 110,
     "timeWeek": 119,
     "timeMonth": 130,
     "timeYear": 117,
     "dailyMinutesDown": {
-      "2025-06-20": 35,
+      "2025-06-20": 24,
       "2025-06-19": 68,
       "2025-06-18": 81,
       "2025-06-17": 100,
@@ -271,7 +271,8 @@
       "2025-01-21": 121,
       "2025-01-18": 99,
       "2025-01-14": 103,
-      "2025-01-07": 246
+      "2025-01-07": 246,
+      "2025-01-06": 122
     }
   },
   {
@@ -388,7 +389,7 @@
     "uptime": "97.36%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "46.82%",
+    "uptimeMonth": "46.86%",
     "uptimeYear": "95.25%",
     "time": 113,
     "timeDay": 108,
@@ -439,7 +440,7 @@
     "timeMonth": 112,
     "timeYear": 118,
     "dailyMinutesDown": {
-      "2025-06-20": 1172,
+      "2025-06-20": 1193,
       "2025-06-19": 1440,
       "2025-06-18": 1440,
       "2025-06-17": 1440,
@@ -823,7 +824,7 @@
     "timeMonth": 0,
     "timeYear": 817,
     "dailyMinutesDown": {
-      "2025-06-20": 1172,
+      "2025-06-20": 1193,
       "2025-06-19": 1440,
       "2025-06-18": 1440,
       "2025-06-17": 1440,
