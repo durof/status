@@ -112,15 +112,15 @@
     "url": "https://backend.isbotdown.com/bots/mentionbot",
     "icon": "https://icons.duckduckgo.com/ip3/backend.isbotdown.com.ico",
     "slug": "mention-bot",
-    "status": "up",
+    "status": "down",
     "uptime": "99.59%",
-    "uptimeDay": "87.80%",
+    "uptimeDay": "87.78%",
     "uptimeWeek": "80.67%",
-    "uptimeMonth": "85.98%",
-    "uptimeYear": "98.83%",
+    "uptimeMonth": "86.04%",
+    "uptimeYear": "98.84%",
     "time": 114,
-    "timeDay": 112,
-    "timeWeek": 112,
+    "timeDay": 114,
+    "timeWeek": 113,
     "timeMonth": 123,
     "timeYear": 114,
     "dailyMinutesDown": {
@@ -144,7 +144,7 @@
       "2025-05-30": 921,
       "2025-05-29": 332,
       "2025-05-28": 373,
-      "2025-05-27": 37
+      "2025-05-27": 12
     }
   },
   {
@@ -154,9 +154,9 @@
     "slug": "mention-robot",
     "status": "up",
     "uptime": "99.61%",
-    "uptimeDay": "78.30%",
-    "uptimeWeek": "90.89%",
-    "uptimeMonth": "86.95%",
+    "uptimeDay": "79.17%",
+    "uptimeWeek": "91.02%",
+    "uptimeMonth": "86.89%",
     "uptimeYear": "98.91%",
     "time": 118,
     "timeDay": 113,
@@ -164,7 +164,7 @@
     "timeMonth": 128,
     "timeYear": 119,
     "dailyMinutesDown": {
-      "2025-06-21": 32,
+      "2025-06-21": 19,
       "2025-06-20": 280,
       "2025-06-19": 120,
       "2025-06-18": 41,
@@ -186,7 +186,7 @@
       "2025-05-30": 33,
       "2025-05-29": 330,
       "2025-05-28": 465,
-      "2025-05-27": 57
+      "2025-05-27": 96
     }
   },
   {
@@ -388,7 +388,7 @@
     "uptime": "97.36%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "48.77%",
+    "uptimeMonth": "48.79%",
     "uptimeYear": "95.25%",
     "time": 113,
     "timeDay": 157,
@@ -439,7 +439,7 @@
     "timeMonth": 114,
     "timeYear": 118,
     "dailyMinutesDown": {
-      "2025-06-21": 587,
+      "2025-06-21": 597,
       "2025-06-20": 1440,
       "2025-06-19": 1440,
       "2025-06-18": 1440,
@@ -823,7 +823,7 @@
     "timeMonth": 0,
     "timeYear": 810,
     "dailyMinutesDown": {
-      "2025-06-21": 587,
+      "2025-06-21": 597,
       "2025-06-20": 1440,
       "2025-06-19": 1440,
       "2025-06-18": 1440,
