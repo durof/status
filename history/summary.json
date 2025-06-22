@@ -153,17 +153,17 @@
     "slug": "mention-robot",
     "status": "up",
     "uptime": "99.62%",
-    "uptimeDay": "72.10%",
-    "uptimeWeek": "86.09%",
-    "uptimeMonth": "87.25%",
-    "uptimeYear": "98.94%",
+    "uptimeDay": "72.80%",
+    "uptimeWeek": "86.19%",
+    "uptimeMonth": "87.21%",
+    "uptimeYear": "98.93%",
     "time": 118,
     "timeDay": 116,
     "timeWeek": 118,
     "timeMonth": 127,
     "timeYear": 119,
     "dailyMinutesDown": {
-      "2025-06-22": 377,
+      "2025-06-22": 367,
       "2025-06-21": 187,
       "2025-06-20": 280,
       "2025-06-19": 120,
@@ -184,7 +184,7 @@
       "2025-06-01": 38,
       "2025-05-31": 258,
       "2025-05-30": 33,
-      "2025-05-29": 186
+      "2025-05-29": 213
     }
   },
   {
@@ -192,16 +192,16 @@
     "url": "https://backend.isbotdown.com/bots/mentionmirrorbot",
     "icon": "https://icons.duckduckgo.com/ip3/backend.isbotdown.com.ico",
     "slug": "mention-mirror-bot",
-    "status": "up",
-    "uptime": "99.24%",
-    "uptimeDay": "95.87%",
-    "uptimeWeek": "95.56%",
+    "status": "down",
+    "uptime": "99.25%",
+    "uptimeDay": "95.85%",
+    "uptimeWeek": "95.55%",
     "uptimeMonth": "95.97%",
-    "uptimeYear": "97.85%",
+    "uptimeYear": "97.87%",
     "time": 116,
     "timeDay": 116,
     "timeWeek": 118,
-    "timeMonth": 130,
+    "timeMonth": 129,
     "timeYear": 118,
     "dailyMinutesDown": {
       "2025-06-22": 38,
@@ -266,8 +266,7 @@
       "2025-02-13": 356,
       "2025-02-12": 117,
       "2025-02-06": 120,
-      "2025-01-24": 132,
-      "2025-01-23": 134
+      "2025-01-24": 132
     }
   },
   {
@@ -384,7 +383,7 @@
     "uptime": "97.36%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "53.42%",
+    "uptimeMonth": "53.44%",
     "uptimeYear": "95.25%",
     "time": 113,
     "timeDay": 157,
@@ -435,7 +434,7 @@
     "timeMonth": 117,
     "timeYear": 118,
     "dailyMinutesDown": {
-      "2025-06-22": 1186,
+      "2025-06-22": 1196,
       "2025-06-21": 1440,
       "2025-06-20": 1440,
       "2025-06-19": 1440,
@@ -819,7 +818,7 @@
     "timeMonth": 0,
     "timeYear": 812,
     "dailyMinutesDown": {
-      "2025-06-22": 1186,
+      "2025-06-22": 1196,
       "2025-06-21": 1440,
       "2025-06-20": 1440,
       "2025-06-19": 1440,
