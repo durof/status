@@ -149,16 +149,16 @@
     "url": "https://backend.isbotdown.com/bots/mentionrobot",
     "icon": "https://icons.duckduckgo.com/ip3/backend.isbotdown.com.ico",
     "slug": "mention-robot",
-    "status": "up",
+    "status": "down",
     "uptime": "99.75%",
-    "uptimeDay": "89.20%",
+    "uptimeDay": "90.60%",
     "uptimeWeek": "89.41%",
-    "uptimeMonth": "91.35%",
+    "uptimeMonth": "91.41%",
     "uptimeYear": "99.28%",
-    "time": 118,
-    "timeDay": 121,
-    "timeWeek": 122,
-    "timeMonth": 117,
+    "time": 119,
+    "timeDay": 133,
+    "timeWeek": 123,
+    "timeMonth": 118,
     "timeYear": 119,
     "dailyMinutesDown": {
       "2025-07-04": 116,
@@ -182,7 +182,7 @@
       "2025-06-15": 132,
       "2025-06-12": 121,
       "2025-06-11": 225,
-      "2025-06-10": 136
+      "2025-06-10": 110
     }
   },
   {
@@ -192,17 +192,17 @@
     "slug": "mention-mirror-bot",
     "status": "up",
     "uptime": "99.53%",
-    "uptimeDay": "97.60%",
-    "uptimeWeek": "96.82%",
-    "uptimeMonth": "95.88%",
-    "uptimeYear": "98.67%",
+    "uptimeDay": "98.63%",
+    "uptimeWeek": "96.97%",
+    "uptimeMonth": "95.91%",
+    "uptimeYear": "98.66%",
     "time": 116,
     "timeDay": 107,
     "timeWeek": 122,
     "timeMonth": 118,
     "timeYear": 118,
     "dailyMinutesDown": {
-      "2025-07-04": 35,
+      "2025-07-04": 20,
       "2025-07-03": 27,
       "2025-07-02": 68,
       "2025-07-01": 30,
@@ -256,7 +256,8 @@
       "2025-04-29": 24,
       "2025-04-28": 43,
       "2025-04-25": 80,
-      "2025-04-24": 77
+      "2025-04-24": 77,
+      "2025-04-21": 26
     }
   },
   {
@@ -373,7 +374,7 @@
     "uptime": "97.39%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "96.41%",
+    "uptimeMonth": "96.46%",
     "uptimeYear": "95.25%",
     "time": 113,
     "timeDay": 88,
@@ -424,7 +425,7 @@
     "timeMonth": 124,
     "timeYear": 119,
     "dailyMinutesDown": {
-      "2025-07-04": 1296,
+      "2025-07-04": 1317,
       "2025-07-03": 1440,
       "2025-07-02": 1440,
       "2025-07-01": 1440,
@@ -808,7 +809,7 @@
     "timeMonth": 0,
     "timeYear": 815,
     "dailyMinutesDown": {
-      "2025-07-04": 1296,
+      "2025-07-04": 1317,
       "2025-07-03": 1440,
       "2025-07-02": 1440,
       "2025-07-01": 1440,
