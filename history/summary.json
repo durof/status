@@ -149,14 +149,14 @@
     "url": "https://backend.isbotdown.com/bots/mentionrobot",
     "icon": "https://icons.duckduckgo.com/ip3/backend.isbotdown.com.ico",
     "slug": "mention-robot",
-    "status": "up",
+    "status": "down",
     "uptime": "99.68%",
-    "uptimeDay": "71.09%",
-    "uptimeWeek": "75.52%",
-    "uptimeMonth": "88.79%",
+    "uptimeDay": "71.06%",
+    "uptimeWeek": "75.51%",
+    "uptimeMonth": "88.83%",
     "uptimeYear": "99.07%",
     "time": 119,
-    "timeDay": 113,
+    "timeDay": 111,
     "timeWeek": 115,
     "timeMonth": 120,
     "timeYear": 119,
@@ -179,8 +179,7 @@
       "2025-07-08": 112,
       "2025-07-05": 142,
       "2025-07-04": 160,
-      "2025-07-03": 152,
-      "2025-07-02": 20
+      "2025-07-03": 152
     }
   },
   {
@@ -188,19 +187,19 @@
     "url": "https://backend.isbotdown.com/bots/mentionmirrorbot",
     "icon": "https://icons.duckduckgo.com/ip3/backend.isbotdown.com.ico",
     "slug": "mention-mirror-bot",
-    "status": "up",
+    "status": "down",
     "uptime": "99.75%",
-    "uptimeDay": "93.42%",
-    "uptimeWeek": "92.86%",
+    "uptimeDay": "93.38%",
+    "uptimeWeek": "92.85%",
     "uptimeMonth": "94.99%",
     "uptimeYear": "99.26%",
     "time": 117,
-    "timeDay": 99,
-    "timeWeek": 110,
+    "timeDay": 98,
+    "timeWeek": 109,
     "timeMonth": 119,
     "timeYear": 118,
     "dailyMinutesDown": {
-      "2025-07-24": 32,
+      "2025-07-24": 33,
       "2025-07-23": 85,
       "2025-07-22": 83,
       "2025-07-21": 161,
@@ -245,8 +244,7 @@
       "2025-05-31": 41,
       "2025-05-29": 74,
       "2025-05-28": 92,
-      "2025-05-27": 22,
-      "2025-05-26": 16
+      "2025-05-27": 22
     }
   },
   {
@@ -413,7 +411,7 @@
     "timeMonth": 128,
     "timeYear": 120,
     "dailyMinutesDown": {
-      "2025-07-24": 597,
+      "2025-07-24": 626,
       "2025-07-23": 1440,
       "2025-07-22": 1440,
       "2025-07-21": 1440,
@@ -797,7 +795,7 @@
     "timeMonth": 0,
     "timeYear": 818,
     "dailyMinutesDown": {
-      "2025-07-24": 597,
+      "2025-07-24": 626,
       "2025-07-23": 1440,
       "2025-07-22": 1440,
       "2025-07-21": 1440,
