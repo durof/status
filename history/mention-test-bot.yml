@@ -1,7 +1,7 @@
 url: https://backend.isbotdown.com/bots/mentiontestbot
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-07-26T14:42:36.275Z
+status: up
+code: 200
+responseTime: 144
+lastUpdated: 2025-07-26T14:52:28.813Z
 startTime: 2022-08-27T13:17:34.000Z
 generator: Upptime <https://github.com/upptime/upptime>
