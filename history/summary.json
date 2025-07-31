@@ -107,11 +107,11 @@
     "url": "https://backend.isbotdown.com/bots/mentionbot",
     "icon": "https://icons.duckduckgo.com/ip3/backend.isbotdown.com.ico",
     "slug": "mention-bot",
-    "status": "up",
+    "status": "down",
     "uptime": "99.66%",
-    "uptimeDay": "62.67%",
-    "uptimeWeek": "77.96%",
-    "uptimeMonth": "87.95%",
+    "uptimeDay": "63.80%",
+    "uptimeWeek": "77.95%",
+    "uptimeMonth": "88.05%",
     "uptimeYear": "99.00%",
     "time": 115,
     "timeDay": 108,
@@ -137,7 +137,7 @@
       "2025-07-16": 184,
       "2025-07-15": 337,
       "2025-07-14": 108,
-      "2025-07-13": 141
+      "2025-07-13": 98
     }
   },
   {
@@ -145,18 +145,19 @@
     "url": "https://backend.isbotdown.com/bots/mentionrobot",
     "icon": "https://icons.duckduckgo.com/ip3/backend.isbotdown.com.ico",
     "slug": "mention-robot",
-    "status": "up",
+    "status": "down",
     "uptime": "99.66%",
-    "uptimeDay": "92.44%",
-    "uptimeWeek": "87.08%",
-    "uptimeMonth": "88.17%",
-    "uptimeYear": "99.01%",
+    "uptimeDay": "92.42%",
+    "uptimeWeek": "87.07%",
+    "uptimeMonth": "88.23%",
+    "uptimeYear": "99.02%",
     "time": 119,
-    "timeDay": 109,
+    "timeDay": 107,
     "timeWeek": 111,
     "timeMonth": 118,
     "timeYear": 119,
     "dailyMinutesDown": {
+      "2025-07-31": 0,
       "2025-07-30": 135,
       "2025-07-29": 274,
       "2025-07-28": 225,
@@ -175,7 +176,7 @@
       "2025-07-15": 248,
       "2025-07-14": 332,
       "2025-07-13": 405,
-      "2025-07-12": 95
+      "2025-07-12": 69
     }
   },
   {
@@ -403,7 +404,7 @@
     "timeMonth": 124,
     "timeYear": 120,
     "dailyMinutesDown": {
-      "2025-07-31": 437,
+      "2025-07-31": 461,
       "2025-07-30": 1440,
       "2025-07-29": 1440,
       "2025-07-28": 1440,
@@ -780,14 +781,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "32.25%",
+    "uptimeYear": "32.24%",
     "time": 796,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 813,
     "dailyMinutesDown": {
-      "2025-07-31": 437,
+      "2025-07-31": 461,
       "2025-07-30": 1440,
       "2025-07-29": 1440,
       "2025-07-28": 1440,
