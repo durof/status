@@ -1,7 +1,7 @@
 url: https://a.devs.today/example.org
-status: down
-code: 400
-responseTime: 1121
-lastUpdated: 2025-08-10T19:26:57.927Z
+status: up
+code: 200
+responseTime: 6254
+lastUpdated: 2025-08-10T20:29:26.184Z
 startTime: 2022-08-27T12:39:26.000Z
 generator: Upptime <https://github.com/upptime/upptime>
