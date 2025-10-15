@@ -70,7 +70,7 @@
     "uptime": "93.62%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "61.85%",
+    "uptimeMonth": "61.92%",
     "uptimeYear": "83.19%",
     "time": 491,
     "timeDay": 374,
@@ -203,15 +203,15 @@
     "url": "https://backend.isbotdown.com/bots/mentionrobot",
     "icon": "https://icons.duckduckgo.com/ip3/backend.isbotdown.com.ico",
     "slug": "mention-robot",
-    "status": "up",
+    "status": "down",
     "uptime": "99.33%",
-    "uptimeDay": "83.22%",
+    "uptimeDay": "83.19%",
     "uptimeWeek": "82.86%",
-    "uptimeMonth": "74.90%",
+    "uptimeMonth": "74.97%",
     "uptimeYear": "97.91%",
     "time": 130,
-    "timeDay": 192,
-    "timeWeek": 186,
+    "timeDay": 183,
+    "timeWeek": 185,
     "timeMonth": 166,
     "timeYear": 131,
     "dailyMinutesDown": {
@@ -237,7 +237,7 @@
       "2025-09-26": 147,
       "2025-09-25": 232,
       "2025-09-24": 249,
-      "2025-09-23": 311
+      "2025-09-23": 282
     }
   },
   {
@@ -247,9 +247,9 @@
     "slug": "mention-mirror-bot",
     "status": "up",
     "uptime": "99.78%",
-    "uptimeDay": "99.11%",
-    "uptimeWeek": "95.03%",
-    "uptimeMonth": "93.41%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "95.15%",
+    "uptimeMonth": "93.44%",
     "uptimeYear": "99.32%",
     "time": 134,
     "timeDay": 97,
@@ -257,7 +257,6 @@
     "timeMonth": 168,
     "timeYear": 137,
     "dailyMinutesDown": {
-      "2025-10-15": 13,
       "2025-10-14": 74,
       "2025-10-12": 94,
       "2025-10-11": 33,
@@ -288,7 +287,7 @@
       "2025-09-11": 59,
       "2025-09-10": 29,
       "2025-09-09": 34,
-      "2025-09-08": 21
+      "2025-09-08": 38
     }
   },
   {
@@ -300,7 +299,7 @@
     "uptime": "95.67%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "93.36%",
+    "uptimeMonth": "93.43%",
     "uptimeYear": "86.42%",
     "time": 118,
     "timeDay": 103,
@@ -455,7 +454,7 @@
     "timeMonth": 124,
     "timeYear": 121,
     "dailyMinutesDown": {
-      "2025-10-15": 539,
+      "2025-10-15": 568,
       "2025-10-14": 1440,
       "2025-10-13": 1440,
       "2025-10-12": 1440,
@@ -568,7 +567,7 @@
     "timeMonth": 169,
     "timeYear": 128,
     "dailyMinutesDown": {
-      "2025-10-15": 539,
+      "2025-10-15": 568,
       "2025-10-14": 1440,
       "2025-10-13": 1440,
       "2025-10-12": 1440,
@@ -952,7 +951,7 @@
     "timeMonth": 0,
     "timeYear": 807,
     "dailyMinutesDown": {
-      "2025-10-15": 539,
+      "2025-10-15": 568,
       "2025-10-14": 1440,
       "2025-10-13": 1440,
       "2025-10-12": 1440,
