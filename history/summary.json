@@ -70,7 +70,7 @@
     "uptime": "93.67%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "91.15%",
+    "uptimeMonth": "91.20%",
     "uptimeYear": "83.21%",
     "time": 496,
     "timeDay": 483,
@@ -164,15 +164,15 @@
     "url": "https://backend.isbotdown.com/bots/mentionbot",
     "icon": "https://icons.duckduckgo.com/ip3/backend.isbotdown.com.ico",
     "slug": "mention-bot",
-    "status": "up",
+    "status": "down",
     "uptime": "99.75%",
-    "uptimeDay": "88.92%",
-    "uptimeWeek": "84.14%",
-    "uptimeMonth": "90.43%",
-    "uptimeYear": "99.20%",
+    "uptimeDay": "90.29%",
+    "uptimeWeek": "84.19%",
+    "uptimeMonth": "90.48%",
+    "uptimeYear": "99.21%",
     "time": 123,
-    "timeDay": 290,
-    "timeWeek": 152,
+    "timeDay": 278,
+    "timeWeek": 153,
     "timeMonth": 148,
     "timeYear": 123,
     "dailyMinutesDown": {
@@ -196,7 +196,7 @@
       "2025-10-07": 217,
       "2025-10-06": 205,
       "2025-10-05": 114,
-      "2025-10-04": 63
+      "2025-10-04": 42
     }
   },
   {
@@ -206,9 +206,9 @@
     "slug": "mention-robot",
     "status": "up",
     "uptime": "99.76%",
-    "uptimeDay": "87.50%",
-    "uptimeWeek": "84.20%",
-    "uptimeMonth": "90.75%",
+    "uptimeDay": "88.54%",
+    "uptimeWeek": "84.35%",
+    "uptimeMonth": "90.73%",
     "uptimeYear": "99.23%",
     "time": 135,
     "timeDay": 216,
@@ -216,7 +216,7 @@
     "timeMonth": 204,
     "timeYear": 136,
     "dailyMinutesDown": {
-      "2025-10-24": 66,
+      "2025-10-24": 51,
       "2025-10-23": 173,
       "2025-10-22": 231,
       "2025-10-21": 251,
@@ -233,7 +233,8 @@
       "2025-10-10": 372,
       "2025-10-09": 280,
       "2025-10-08": 276,
-      "2025-10-07": 338
+      "2025-10-07": 338,
+      "2025-10-06": 21
     }
   },
   {
@@ -451,7 +452,7 @@
     "timeMonth": 126,
     "timeYear": 121,
     "dailyMinutesDown": {
-      "2025-10-24": 413,
+      "2025-10-24": 434,
       "2025-10-23": 1440,
       "2025-10-22": 1440,
       "2025-10-21": 1440,
@@ -573,7 +574,7 @@
     "timeMonth": 120,
     "timeYear": 128,
     "dailyMinutesDown": {
-      "2025-10-24": 413,
+      "2025-10-24": 434,
       "2025-10-23": 1440,
       "2025-10-22": 1440,
       "2025-10-21": 1440,
@@ -957,7 +958,7 @@
     "timeMonth": 0,
     "timeYear": 784,
     "dailyMinutesDown": {
-      "2025-10-24": 414,
+      "2025-10-24": 434,
       "2025-10-23": 1440,
       "2025-10-22": 1440,
       "2025-10-21": 1440,
