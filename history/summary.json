@@ -164,18 +164,19 @@
     "url": "https://backend.isbotdown.com/bots/mentionbot",
     "icon": "https://icons.duckduckgo.com/ip3/backend.isbotdown.com.ico",
     "slug": "mention-bot",
-    "status": "up",
+    "status": "down",
     "uptime": "99.74%",
-    "uptimeDay": "95.30%",
-    "uptimeWeek": "84.62%",
-    "uptimeMonth": "90.03%",
+    "uptimeDay": "95.28%",
+    "uptimeWeek": "84.72%",
+    "uptimeMonth": "90.10%",
     "uptimeYear": "99.17%",
     "time": 123,
-    "timeDay": 97,
-    "timeWeek": 175,
+    "timeDay": 96,
+    "timeWeek": 174,
     "timeMonth": 154,
     "timeYear": 124,
     "dailyMinutesDown": {
+      "2025-10-30": 0,
       "2025-10-29": 67,
       "2025-10-28": 211,
       "2025-10-27": 328,
@@ -195,7 +196,7 @@
       "2025-10-13": 279,
       "2025-10-12": 128,
       "2025-10-11": 137,
-      "2025-10-10": 182
+      "2025-10-10": 149
     }
   },
   {
@@ -205,9 +206,9 @@
     "slug": "mention-robot",
     "status": "down",
     "uptime": "99.76%",
-    "uptimeDay": "95.28%",
-    "uptimeWeek": "87.03%",
-    "uptimeMonth": "90.99%",
+    "uptimeDay": "94.59%",
+    "uptimeWeek": "86.93%",
+    "uptimeMonth": "90.97%",
     "uptimeYear": "99.25%",
     "time": 139,
     "timeDay": 116,
@@ -215,7 +216,7 @@
     "timeMonth": 223,
     "timeYear": 140,
     "dailyMinutesDown": {
-      "2025-10-30": 21,
+      "2025-10-30": 30,
       "2025-10-29": 47,
       "2025-10-28": 79,
       "2025-10-27": 177,
@@ -458,7 +459,7 @@
     "timeMonth": 126,
     "timeYear": 121,
     "dailyMinutesDown": {
-      "2025-10-30": 285,
+      "2025-10-30": 295,
       "2025-10-29": 1440,
       "2025-10-28": 1440,
       "2025-10-27": 1440,
@@ -586,7 +587,7 @@
     "timeMonth": 120,
     "timeYear": 128,
     "dailyMinutesDown": {
-      "2025-10-30": 285,
+      "2025-10-30": 295,
       "2025-10-29": 1440,
       "2025-10-28": 1440,
       "2025-10-27": 1440,
@@ -970,7 +971,7 @@
     "timeMonth": 0,
     "timeYear": 824,
     "dailyMinutesDown": {
-      "2025-10-30": 285,
+      "2025-10-30": 295,
       "2025-10-29": 1440,
       "2025-10-28": 1440,
       "2025-10-27": 1440,
